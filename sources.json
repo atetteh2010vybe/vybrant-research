@@ -1,0 +1,15 @@
+{
+  "_note": "PubMed search terms used by the weekly update. Each new study is added only to the page(s) listed.",
+  "tirzepatide": {"pubmed": "tirzepatide[tiab]", "only": ["Randomized Controlled Trial", "Meta-Analysis", "Systematic Review"], "max_per_week": 2},
+  "semaglutide": {"pubmed": "semaglutide[tiab]", "only": ["Randomized Controlled Trial", "Meta-Analysis", "Systematic Review"], "max_per_week": 2},
+  "sermorelin": {"pubmed": "sermorelin[tiab] OR \"GHRH(1-29)\"[tiab] OR (growth hormone-releasing hormone[tiab] AND (aging[tiab] OR older adults[tiab]))", "only": [], "max_per_week": 3},
+  "mots-c": {"pubmed": "MOTS-c[tiab] OR \"mitochondrial open reading frame of the 12S rRNA-c\"[tiab]", "only": [], "max_per_week": 3},
+  "bpc-157": {"pubmed": "BPC-157[tiab] OR \"BPC 157\"[tiab] OR \"pentadecapeptide BPC\"[tiab]", "only": [], "max_per_week": 3},
+  "tb-500": {"pubmed": "TB-500[tiab] OR \"thymosin beta-4\"[tiab] OR \"thymosin beta 4\"[tiab] OR \"thymosin beta4\"[tiab]", "only": [], "max_per_week": 3},
+  "bpc-157-kpv": {"pubmed": "(KPV[tiab] AND (peptide[tiab] OR tripeptide[tiab] OR melanocortin[tiab])) OR \"Lys-Pro-Val\"[tiab] OR ((BPC-157[tiab] OR \"BPC 157\"[tiab]) AND (gut[tiab] OR intestin*[tiab] OR colitis[tiab] OR gastric[tiab] OR ulcer*[tiab]))", "only": [], "max_per_week": 3},
+  "regulatory": {
+    "federal_register": ["503A peptide", "bulk drug substances compounding", "compounding peptides enforcement discretion", "tirzepatide compounding", "semaglutide compounding"],
+    "fda_pages": ["https://www.fda.gov/drugs/human-drug-compounding", "https://www.fda.gov/advisory-committees/human-drug-advisory-committees/pharmacy-compounding-advisory-committee"],
+    "applies_to": {"BPC-157": ["bpc-157", "bpc-157-kpv"], "KPV": ["bpc-157-kpv"], "TB-500": ["tb-500"], "MOTS-c": ["mots-c"], "sermorelin": ["sermorelin"], "tirzepatide": ["tirzepatide"], "semaglutide": ["semaglutide"]}
+  }
+}

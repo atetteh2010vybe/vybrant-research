@@ -1,0 +1,1537 @@
+{
+ "schema": 1,
+ "updated": "2026-11-14",
+ "pages": {
+  "tirzepatide": {
+   "name": "Compounded Tirzepatide",
+   "eyebrow": "CLINICAL RESEARCH LIBRARY",
+   "heading": "Explore the science behind tirzepatide",
+   "intro": "Filter by topic or search to find a study. These trials studied FDA-approved tirzepatide, not compounded versions.",
+   "searchLabel": "Search studies",
+   "placeholder": "Study name, condition or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "weight",
+     "label": "Weight management"
+    },
+    {
+     "key": "glucose",
+     "label": "Glucose regulation"
+    },
+    {
+     "key": "liver",
+     "label": "Liver health"
+    },
+    {
+     "key": "sleep",
+     "label": "Sleep apnea"
+    },
+    {
+     "key": "heart",
+     "label": "Heart health"
+    },
+    {
+     "key": "kidney",
+     "label": "Kidney health"
+    },
+    {
+     "key": "body",
+     "label": "Body composition"
+    }
+   ],
+   "studies": [
+    {
+     "id": "surmount-1-tirzepatide-once-weekly-for-the-treatment-of-obes",
+     "cats": [
+      "weight"
+     ],
+     "study": "SURMOUNT-1",
+     "meta": "2022 · N Engl J Med",
+     "title": "Tirzepatide Once Weekly for the Treatment of Obesity",
+     "studied": "",
+     "finding": "Significant average weight reduction over 72 weeks in adults with obesity or overweight, without diabetes.",
+     "limit": "",
+     "design": "Phase 3 randomized trial",
+     "badge": "dark",
+     "url": "https://doi.org/10.1056/NEJMoa2206038",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "surmount-5-tirzepatide-as-compared-with-semaglutide-for-the-",
+     "cats": [
+      "weight"
+     ],
+     "study": "SURMOUNT-5",
+     "meta": "2025 · N Engl J Med",
+     "title": "Tirzepatide as Compared with Semaglutide for the Treatment of Obesity",
+     "studied": "",
+     "finding": "Head-to-head comparison: greater average weight loss with tirzepatide than semaglutide at 72 weeks.",
+     "limit": "",
+     "design": "Randomized head-to-head trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Tirzepatide%20as%20Compared%20with%20Semaglutide%20for%20the%20Treatment%20of%20Obesity",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "surmount-4-continued-treatment-with-tirzepatide-for-maintena",
+     "cats": [
+      "weight"
+     ],
+     "study": "SURMOUNT-4",
+     "meta": "2024 · JAMA",
+     "title": "Continued Treatment With Tirzepatide for Maintenance of Weight Reduction",
+     "studied": "",
+     "finding": "Looked at keeping weight off, and weight regain after stopping treatment.",
+     "limit": "",
+     "design": "Randomized withdrawal trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Continued%20Treatment%20With%20Tirzepatide%20for%20Maintenance%20of%20Weight%20Reduction%20in%20Adults%20With%20Obesity%20SURMOUNT-4",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "surpass-2-tirzepatide-versus-semaglutide-once-weekly-in-pati",
+     "cats": [
+      "glucose"
+     ],
+     "study": "SURPASS-2",
+     "meta": "2021 · N Engl J Med",
+     "title": "Tirzepatide versus Semaglutide Once Weekly in Patients with Type 2 Diabetes",
+     "studied": "",
+     "finding": "Greater reductions in HbA1c and body weight with tirzepatide in people with type 2 diabetes.",
+     "limit": "",
+     "design": "Phase 3 randomized trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Tirzepatide%20versus%20Semaglutide%20Once%20Weekly%20in%20Patients%20with%20Type%202%20Diabetes",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "diabetes-prevention-tirzepatide-for-obesity-treatment-and-di",
+     "cats": [
+      "glucose"
+     ],
+     "study": "Diabetes prevention",
+     "meta": "2025 · N Engl J Med",
+     "title": "Tirzepatide for Obesity Treatment and Diabetes Prevention",
+     "studied": "",
+     "finding": "Three-year look at progression to type 2 diabetes in adults with obesity and prediabetes.",
+     "limit": "",
+     "design": "Extended randomized trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Tirzepatide%20for%20Obesity%20Treatment%20and%20Diabetes%20Prevention",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "synergy-nash-tirzepatide-for-metabolic-dysfunction-associate",
+     "cats": [
+      "liver"
+     ],
+     "study": "SYNERGY-NASH",
+     "meta": "2024 · N Engl J Med",
+     "title": "Tirzepatide for Metabolic Dysfunction–Associated Steatohepatitis with Liver Fibrosis",
+     "studied": "",
+     "finding": "Improved MASH on liver biopsy in adults with biopsy-confirmed disease.",
+     "limit": "",
+     "design": "Phase 2 randomized trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Tirzepatide%20for%20Metabolic%20Dysfunction-Associated%20Steatohepatitis%20with%20Liver%20Fibrosis",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "surmount-osa-tirzepatide-for-the-treatment-of-obstructive-sl",
+     "cats": [
+      "sleep"
+     ],
+     "study": "SURMOUNT-OSA",
+     "meta": "2024 · N Engl J Med",
+     "title": "Tirzepatide for the Treatment of Obstructive Sleep Apnea and Obesity",
+     "studied": "",
+     "finding": "Fewer breathing interruptions during sleep, plus improvements in several other sleep measures.",
+     "limit": "",
+     "design": "Phase 3 randomized trials",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Tirzepatide%20for%20the%20Treatment%20of%20Obstructive%20Sleep%20Apnea%20and%20Obesity",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "summit-tirzepatide-for-heart-failure-with-preserved-ejection",
+     "cats": [
+      "heart"
+     ],
+     "study": "SUMMIT",
+     "meta": "2025 · N Engl J Med",
+     "title": "Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity",
+     "studied": "",
+     "finding": "Examined heart-failure events and quality of life in people with obesity-related HFpEF.",
+     "limit": "",
+     "design": "Phase 3 randomized trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Tirzepatide%20for%20Heart%20Failure%20with%20Preserved%20Ejection%20Fraction%20and%20Obesity",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "surpass-4-renal-analysis-effects-of-tirzepatide-versus-insul",
+     "cats": [
+      "kidney"
+     ],
+     "study": "SURPASS-4 renal analysis",
+     "meta": "2022 · Lancet Diabetes Endocrinol",
+     "title": "Effects of Tirzepatide Versus Insulin Glargine on Kidney Outcomes in Type 2 Diabetes",
+     "studied": "",
+     "finding": "Suggested favorable kidney outcomes compared with insulin glargine.",
+     "limit": "",
+     "design": "Post-hoc analysis",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Effects%20of%20tirzepatide%20versus%20insulin%20glargine%20on%20kidney%20outcomes%20in%20type%202%20diabetes%20in%20the%20SURPASS-4%20trial",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "surmount-1-dxa-body-composition-changes-during-weight-reduct",
+     "cats": [
+      "body"
+     ],
+     "study": "SURMOUNT-1 DXA",
+     "meta": "2025 · Diabetes Obes Metab",
+     "title": "Body Composition Changes During Weight Reduction with Tirzepatide in SURMOUNT-1",
+     "studied": "",
+     "finding": "About 75% of weight lost was fat mass and about 25% was lean mass.",
+     "limit": "",
+     "design": "DXA substudy",
+     "badge": "gold",
+     "url": "https://doi.org/10.1111/dom.16275",
+     "added": "2026-11-14",
+     "auto": false
+    }
+   ]
+  },
+  "semaglutide": {
+   "name": "Compounded Semaglutide",
+   "eyebrow": "RESEARCH-BACKED METABOLIC CARE",
+   "heading": "Explore the science behind semaglutide",
+   "intro": "Results apply to the populations studied, and not every studied use is FDA-approved. These trials studied FDA-approved semaglutide, not compounded versions.",
+   "searchLabel": "Search studies",
+   "placeholder": "Study name, condition or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "weight",
+     "label": "Weight management"
+    },
+    {
+     "key": "diabetes",
+     "label": "Diabetes & prediabetes"
+    },
+    {
+     "key": "cardio",
+     "label": "Cardiovascular"
+    },
+    {
+     "key": "kidney",
+     "label": "Kidney"
+    },
+    {
+     "key": "liver",
+     "label": "Liver"
+    },
+    {
+     "key": "joint",
+     "label": "Joint health"
+    },
+    {
+     "key": "body",
+     "label": "Body composition"
+    },
+    {
+     "key": "emerging",
+     "label": "Emerging research"
+    }
+   ],
+   "studies": [
+    {
+     "id": "step-1-once-weekly-semaglutide-in-adults-with-overweight-or-",
+     "cats": [
+      "weight"
+     ],
+     "study": "STEP 1",
+     "meta": "2021 · Wilding et al. · N Engl J Med",
+     "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity",
+     "studied": "",
+     "finding": "About 14.9% average weight reduction over 68 weeks with semaglutide 2.4 mg, versus 2.4% with placebo.",
+     "limit": "",
+     "design": "Phase 3 randomized trial",
+     "badge": "dark",
+     "url": "https://doi.org/10.1056/NEJMoa2032183",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "step-5-two-year-effects-of-semaglutide-in-adults-with-overwe",
+     "cats": [
+      "weight"
+     ],
+     "study": "STEP 5",
+     "meta": "2022 · Garvey et al. · Nat Med",
+     "title": "Two-year effects of semaglutide in adults with overweight or obesity: the STEP 5 trial",
+     "studied": "",
+     "finding": "About 15.2% average weight reduction at 104 weeks, versus 2.6% with placebo.",
+     "limit": "",
+     "design": "Randomized controlled trial",
+     "badge": "dark",
+     "url": "https://doi.org/10.1038/s41591-022-02026-4",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "step-1-extension-weight-regain-and-cardiometabolic-effects-a",
+     "cats": [
+      "weight"
+     ],
+     "study": "STEP 1 extension",
+     "meta": "2022 · Wilding et al. · Diabetes Obes Metab",
+     "title": "Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension",
+     "studied": "",
+     "finding": "Participants regained much of the weight they had lost after stopping, showing why long-term planning matters.",
+     "limit": "",
+     "design": "Off-treatment extension",
+     "badge": "gold",
+     "url": "https://doi.org/10.1111/dom.14725",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "step-10-once-weekly-semaglutide-2-4-mg-versus-placebo-in-peo",
+     "cats": [
+      "diabetes"
+     ],
+     "study": "STEP 10",
+     "meta": "2024 · McGowan et al. · Lancet Diabetes Endocrinol",
+     "title": "Once-weekly semaglutide 2.4 mg versus placebo in people with obesity and prediabetes",
+     "studied": "",
+     "finding": "Greater weight reduction and more people returning to normal blood sugar at 52 weeks.",
+     "limit": "",
+     "design": "Phase 3 randomized trial",
+     "badge": "dark",
+     "url": "https://doi.org/10.1016/S2213-8587(24)00182-7",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "select-semaglutide-and-cardiovascular-outcomes-in-obesity-wi",
+     "cats": [
+      "cardio"
+     ],
+     "study": "SELECT",
+     "meta": "2023 · Lincoff et al. · N Engl J Med",
+     "title": "Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes",
+     "studied": "",
+     "finding": "20% relative reduction in major cardiovascular events in adults with heart disease and overweight or obesity, without diabetes.",
+     "limit": "",
+     "design": "Cardiovascular outcomes trial",
+     "badge": "dark",
+     "url": "https://doi.org/10.1056/NEJMoa2307563",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "step-hfpef-semaglutide-in-patients-with-heart-failure-with-p",
+     "cats": [
+      "cardio"
+     ],
+     "study": "STEP-HFpEF",
+     "meta": "2023 · Kosiborod et al. · N Engl J Med",
+     "title": "Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity",
+     "studied": "",
+     "finding": "Improvements in weight, heart-failure symptoms and physical limitations in obesity-related HFpEF.",
+     "limit": "",
+     "design": "Randomized controlled trial",
+     "badge": "dark",
+     "url": "https://doi.org/10.1056/NEJMoa2306963",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "flow-effects-of-semaglutide-on-chronic-kidney-disease-in-pat",
+     "cats": [
+      "kidney"
+     ],
+     "study": "FLOW",
+     "meta": "2024 · Perkovic et al. · N Engl J Med",
+     "title": "Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes",
+     "studied": "",
+     "finding": "24% relative reduction in major kidney events or cardiovascular death in adults with type 2 diabetes and chronic kidney disease.",
+     "limit": "",
+     "design": "Kidney outcomes trial",
+     "badge": "dark",
+     "url": "https://doi.org/10.1056/NEJMoa2403347",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "essence-phase-3-trial-of-semaglutide-in-metabolic-dysfunctio",
+     "cats": [
+      "liver"
+     ],
+     "study": "ESSENCE",
+     "meta": "2025 · Sanyal et al. · N Engl J Med",
+     "title": "Phase 3 Trial of Semaglutide in Metabolic Dysfunction–Associated Steatohepatitis",
+     "studied": "",
+     "finding": "Improved MASH resolution and fibrosis on liver biopsy at week 72.",
+     "limit": "",
+     "design": "Phase 3 trial, interim analysis",
+     "badge": "dark",
+     "url": "https://doi.org/10.1056/NEJMoa2413258",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "step-9-once-weekly-semaglutide-in-persons-with-obesity-and-k",
+     "cats": [
+      "joint"
+     ],
+     "study": "STEP 9",
+     "meta": "2024 · Bliddal et al. · N Engl J Med",
+     "title": "Once-Weekly Semaglutide in Persons with Obesity and Knee Osteoarthritis",
+     "studied": "",
+     "finding": "Improvements in weight, knee pain and physical function compared with placebo.",
+     "limit": "",
+     "design": "Randomized controlled trial",
+     "badge": "dark",
+     "url": "https://doi.org/10.1056/NEJMoa2403664",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "step-1-dxa-impact-of-semaglutide-on-body-composition-in-adul",
+     "cats": [
+      "body"
+     ],
+     "study": "STEP 1 DXA",
+     "meta": "STEP 1 substudy",
+     "title": "Impact of Semaglutide on Body Composition in Adults With Overweight or Obesity: Exploratory Analysis of the STEP 1 Study",
+     "studied": "",
+     "finding": "Reductions in total fat mass and visceral fat, with a smaller decrease in absolute lean mass.",
+     "limit": "",
+     "design": "Exploratory DXA substudy",
+     "badge": "gold",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8089287/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "pcos-glp-1-medications-in-women-with-pcos",
+     "cats": [
+      "emerging"
+     ],
+     "study": "PCOS",
+     "meta": "Emerging research",
+     "title": "GLP-1 medications in women with PCOS",
+     "studied": "",
+     "finding": "Being studied where excess weight and insulin resistance are present. Semaglutide-specific evidence is limited, and it is not approved for PCOS.",
+     "limit": "",
+     "design": "Investigational",
+     "badge": "dashed",
+     "url": "",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "inflammation-inflammatory-biomarkers-during-treatment",
+     "cats": [
+      "emerging"
+     ],
+     "study": "Inflammation",
+     "meta": "Emerging research",
+     "title": "Inflammatory biomarkers during treatment",
+     "studied": "",
+     "finding": "Some markers change during treatment. Semaglutide is not an established treatment for inflammatory or autoimmune disease.",
+     "limit": "",
+     "design": "Investigational",
+     "badge": "dashed",
+     "url": "",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "mitochondria-mitochondrial-function-and-pgc-1",
+     "cats": [
+      "emerging"
+     ],
+     "study": "Mitochondria",
+     "meta": "Emerging research",
+     "title": "Mitochondrial function and PGC-1α",
+     "studied": "",
+     "finding": "Mostly cell and animal research. It does not show increased mitochondrial energy production in patients.",
+     "limit": "",
+     "design": "Preclinical",
+     "badge": "dashed",
+     "url": "",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "microdosing-low-dose-or-microdosing-regimens",
+     "cats": [
+      "emerging"
+     ],
+     "study": "Microdosing",
+     "meta": "Emerging research",
+     "title": "Low-dose or \"microdosing\" regimens",
+     "studied": "",
+     "finding": "Not studied in large trials, so standard-dose results do not apply to them.",
+     "limit": "",
+     "design": "Unstudied",
+     "badge": "dashed",
+     "url": "",
+     "added": "2026-11-14",
+     "auto": false
+    }
+   ]
+  },
+  "sermorelin": {
+   "name": "Sermorelin",
+   "eyebrow": "EXPLORE THE CLINICAL EVIDENCE",
+   "heading": "Understanding the research behind growth hormone signaling",
+   "intro": "Each entry says what was actually studied. Results from growth hormone replacement or other compounds don't mean sermorelin has the same effects.",
+   "searchLabel": "Search research",
+   "placeholder": "Study, topic or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "ghrh",
+     "label": "Sermorelin & GHRH"
+    },
+    {
+     "key": "body",
+     "label": "Body composition"
+    },
+    {
+     "key": "brain",
+     "label": "Brain & cognition"
+    },
+    {
+     "key": "sleep",
+     "label": "Sleep"
+    },
+    {
+     "key": "aging",
+     "label": "Aging physiology"
+    },
+    {
+     "key": "guidelines",
+     "label": "Clinical guidelines"
+    },
+    {
+     "key": "safety",
+     "label": "Safety & regulatory"
+    }
+   ],
+   "studies": [
+    {
+     "id": "merriam-et-al-growth-hormone-releasing-hormone-treatment-in-",
+     "cats": [
+      "ghrh",
+      "body"
+     ],
+     "study": "Merriam et al.",
+     "meta": "2001 · J Anti-Aging Med",
+     "title": "Growth Hormone Releasing Hormone Treatment in Normal Aging",
+     "studied": "Nightly GHRH(1–29), the sermorelin sequence, for 6 months in healthy older adults",
+     "finding": "IGF-1 rose (about 30% in men, 23% in women not on estrogen), lean mass rose and body fat fell about 5–8%.",
+     "limit": "Small studies. Physical function changes were equivocal and sleep quality didn't improve.",
+     "design": "Sermorelin / GHRH(1–29) study",
+     "badge": "dark",
+     "url": "https://doi.org/10.1089/10945450152850650",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "merriam-et-al-gh-releasing-hormone-and-gh-secretagogues-in-n",
+     "cats": [
+      "ghrh",
+      "aging"
+     ],
+     "study": "Merriam et al.",
+     "meta": "2008 · Clin Interv Aging",
+     "title": "GH-releasing hormone and GH secretagogues in normal aging: Fountain of Youth or Pool of Tantalus?",
+     "studied": "Review of GHRH and secretagogue research in aging",
+     "finding": "Summarizes effects on body composition, cognition and sleep, and why the evidence is limited.",
+     "limit": "A narrative review, not a new trial.",
+     "design": "Narrative review",
+     "badge": "tint",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2544358/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "vitiello-et-al-growth-hormone-releasing-hormone-improves-the",
+     "cats": [
+      "brain"
+     ],
+     "study": "Vitiello et al.",
+     "meta": "2006 · Neurobiol Aging",
+     "title": "Growth hormone releasing hormone improves the cognition of healthy older adults",
+     "studied": "89 healthy older adults, daily GHRH vs placebo for 6 months",
+     "finding": "Better scores on selected tests, including problem solving and processing speed.",
+     "limit": "Selective improvements in a small trial. Not a treatment for cognitive disease.",
+     "design": "GHRH controlled trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16399214/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "baker-et-al-effects-of-ghrh-on-cognitive-function-in-adults-",
+     "cats": [
+      "brain"
+     ],
+     "study": "Baker et al.",
+     "meta": "2012 · Arch Neurol",
+     "title": "Effects of GHRH on cognitive function in adults with mild cognitive impairment and healthy older adults",
+     "studied": "152 adults aged 55–87, tesamorelin vs placebo for 20 weeks",
+     "finding": "Favorable effects on selected cognitive measures. IGF-1 rose about 117%.",
+     "limit": "Tesamorelin is a different GHRH drug, not sermorelin. Not proof of dementia prevention.",
+     "design": "Other GHRH analog (tesamorelin)",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22869065/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "merriam-et-al-growth-hormone-releasing-hormone-and-growth-ho",
+     "cats": [
+      "ghrh",
+      "sleep"
+     ],
+     "study": "Merriam et al.",
+     "meta": "2003",
+     "title": "Growth hormone-releasing hormone and growth hormone secretagogues in normal aging",
+     "studied": "Review of human GHRH research, including sleep outcomes",
+     "finding": "Connects GHRH stimulation with body composition, cognition and sleep findings.",
+     "limit": "Highlights the lack of consistent sleep improvement.",
+     "design": "Review of GHRH research",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/14610297/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "endotext-growth-hormone-and-aging",
+     "cats": [
+      "aging"
+     ],
+     "study": "Endotext",
+     "meta": "Medical reference",
+     "title": "Growth Hormone and Aging",
+     "studied": "Age-related changes in GH physiology, plus GH and GHRH trials",
+     "finding": "A clinical overview of how the GH axis changes with age.",
+     "limit": "A reference chapter, not a sermorelin trial.",
+     "design": "Medical reference",
+     "badge": "tint",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK279163/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "molitch-et-al-evaluation-and-treatment-of-adult-growth-hormo",
+     "cats": [
+      "guidelines"
+     ],
+     "study": "Molitch et al.",
+     "meta": "2011 · J Clin Endocrinol Metab",
+     "title": "Evaluation and Treatment of Adult Growth Hormone Deficiency: An Endocrine Society Clinical Practice Guideline",
+     "studied": "How adult GH deficiency should be diagnosed and treated",
+     "finding": "Confirmed deficiency needs proper testing, and is generally treated with recombinant GH.",
+     "limit": "About true deficiency, not wellness use.",
+     "design": "Clinical practice guideline",
+     "badge": "tint",
+     "url": "https://academic.oup.com/jcem/article/96/6/1587/2833853",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "endocrine-society-hormones-and-aging-an-endocrine-society-sc",
+     "cats": [
+      "guidelines",
+      "aging"
+     ],
+     "study": "Endocrine Society",
+     "meta": "2023 · J Clin Endocrinol Metab",
+     "title": "Hormones and Aging: An Endocrine Society Scientific Statement",
+     "studied": "Hormone changes with age, and the benefits and risks of hormone treatments",
+     "finding": "Notes that GHRH and GH secretagogues aren't approved as anti-aging treatments.",
+     "limit": "A scientific statement, not a trial.",
+     "design": "Scientific statement",
+     "badge": "tint",
+     "url": "https://academic.oup.com/jcem/article/108/8/1835/7192004",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "nass-et-al-effects-of-an-oral-ghrelin-mimetic-on-body-compos",
+     "cats": [
+      "body"
+     ],
+     "study": "Nass et al.",
+     "meta": "2008 · Ann Intern Med",
+     "title": "Effects of an Oral Ghrelin Mimetic on Body Composition and Clinical Outcomes in Healthy Older Adults",
+     "studied": "MK-677, an oral GH secretagogue, vs placebo in healthy older adults",
+     "finding": "Shown for broader GH-axis context only.",
+     "limit": "MK-677 is a different compound, not sermorelin.",
+     "design": "Different compound (MK-677)",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/18981485/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "fda-determination-that-geref-sermorelin-acetate-injection-wa",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "2013 · Federal Register",
+     "title": "Determination That GEREF (Sermorelin Acetate) Injection Was Not Withdrawn for Reasons of Safety or Effectiveness",
+     "studied": "The regulatory history of the discontinued sermorelin product",
+     "finding": "The original Geref products weren't withdrawn for safety or effectiveness reasons.",
+     "limit": "Not proof that today's compounded sermorelin is approved or effective for wellness use.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2013-03-04/html/2013-04827.htm",
+     "added": "2026-11-14",
+     "auto": false
+    }
+   ]
+  },
+  "mots-c": {
+   "name": "MOTS-c",
+   "eyebrow": "EXPLORE THE EVIDENCE",
+   "heading": "The research behind MOTS-c",
+   "intro": "Each entry says who or what was studied. Animal and cell results don't guarantee the same effects in people.",
+   "searchLabel": "Search research",
+   "placeholder": "Study, topic or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "mechanism",
+     "label": "How it works"
+    },
+    {
+     "key": "metabolic",
+     "label": "Metabolism"
+    },
+    {
+     "key": "exercise",
+     "label": "Exercise"
+    },
+    {
+     "key": "aging",
+     "label": "Aging"
+    },
+    {
+     "key": "human",
+     "label": "Human studies"
+    },
+    {
+     "key": "safety",
+     "label": "Safety & regulatory"
+    }
+   ],
+   "studies": [
+    {
+     "id": "lee-et-al-the-mitochondrial-derived-peptide-mots-c-promotes-",
+     "cats": [
+      "mechanism",
+      "metabolic"
+     ],
+     "study": "Lee et al.",
+     "meta": "2015 · Cell Metab",
+     "title": "The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance",
+     "studied": "Cells and mice, including mice on a high-fat diet and older mice",
+     "finding": "MOTS-c activated AMPK, prevented diet-induced obesity and improved insulin resistance in mice.",
+     "limit": "Animal and cell data; not tested in people.",
+     "design": "Discovery study (mice)",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/25738459/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "kim-et-al-the-mitochondrial-encoded-peptide-mots-c-transloca",
+     "cats": [
+      "mechanism"
+     ],
+     "study": "Kim et al.",
+     "meta": "2018 · Cell Metab",
+     "title": "The mitochondrial-encoded peptide MOTS-c translocates to the nucleus to regulate nuclear gene expression in response to metabolic stress",
+     "studied": "Cells and mice under metabolic stress",
+     "finding": "Under stress, MOTS-c moved into the nucleus and helped switch on protective stress-response genes.",
+     "limit": "About natural MOTS-c inside cells, not injections.",
+     "design": "Mechanism study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=MOTS-c%20translocates%20to%20the%20nucleus%20to%20regulate%20nuclear%20gene%20expression%20in%20response%20to%20metabolic%20stress",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "reynolds-et-al-mots-c-is-an-exercise-induced-mitochondrial-e",
+     "cats": [
+      "exercise",
+      "aging",
+      "human"
+     ],
+     "study": "Reynolds et al.",
+     "meta": "2021 · Nat Commun",
+     "title": "MOTS-c is an exercise-induced mitochondrial-encoded regulator of age-dependent physical decline and muscle homeostasis",
+     "studied": "10 healthy men (natural MOTS-c with exercise), plus mice of different ages given MOTS-c",
+     "finding": "Exercise raised muscle MOTS-c about 12-fold and blood levels about 1.6-fold; MOTS-c improved physical capacity in mice.",
+     "limit": "No people received MOTS-c; the human group was small and all male.",
+     "design": "Human observational + mice",
+     "badge": "gold",
+     "url": "https://doi.org/10.1038/s41467-020-20790-0",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "d-souza-et-al-plasma-and-skeletal-muscle-mots-c-levels-in-yo",
+     "cats": [
+      "aging",
+      "human"
+     ],
+     "study": "D'Souza et al.",
+     "meta": "2020 · Aging (Albany NY)",
+     "title": "Plasma and skeletal muscle MOTS-c levels in young, middle-aged and older men",
+     "studied": "Natural MOTS-c in men of different ages",
+     "finding": "Blood MOTS-c was lower with age, but muscle MOTS-c was higher in older men.",
+     "limit": "Measures natural levels only; shows links, not cause and effect.",
+     "design": "Human observational",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=plasma%20and%20skeletal%20muscle%20MOTS-c%20young%20middle-aged%20older%20men%20D%27Souza%202020",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "miller-et-al-mitochondrial-derived-peptides-in-aging-and-hea",
+     "cats": [
+      "aging",
+      "mechanism"
+     ],
+     "study": "Miller et al.",
+     "meta": "2022 · J Clin Invest",
+     "title": "Mitochondrial-derived peptides in aging and healthspan",
+     "studied": "Review of MOTS-c and related mitochondrial peptides",
+     "finding": "Summarizes how these peptides relate to metabolism and aging.",
+     "limit": "A review, not a trial.",
+     "design": "Review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Mitochondrial-derived%20peptides%20in%20aging%20and%20healthspan%20Miller%202022",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "fda-fda-evaluation-of-mots-c-related-bulk-drug-substances",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "2026 · PCAC briefing document",
+     "title": "FDA evaluation of MOTS-c-related bulk drug substances",
+     "studied": "Whether MOTS-c should be allowed as a compounding ingredient",
+     "finding": "FDA reported finding no human exposure data for compounded MOTS-c and raised immunogenicity and impurity concerns.",
+     "limit": "A regulatory review; an advisory committee later voted the other way.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/media/193347/download",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "hhs-enforcement-discretion-policy-regarding-503a-compounding",
+     "cats": [
+      "safety"
+     ],
+     "study": "HHS",
+     "meta": "Oct 2026 · Federal Register",
+     "title": "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances",
+     "studied": "Federal rules for compounding six peptides, including MOTS-c",
+     "finding": "Allows 503A compounding of MOTS-c when ten conditions are met, while FDA rulemaking continues.",
+     "limit": "Not FDA approval; temporary, and state rules may differ.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.federalregister.gov/public-inspection/2026-22192/enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "usada-wada-mots-c-on-the-wada-prohibited-list",
+     "cats": [
+      "safety",
+      "exercise"
+     ],
+     "study": "USADA / WADA",
+     "meta": "Prohibited List",
+     "title": "MOTS-c on the WADA Prohibited List",
+     "studied": "Anti-doping status of MOTS-c",
+     "finding": "MOTS-c is listed as a prohibited AMPK activator, banned at all times for tested athletes.",
+     "limit": "Applies to athletes under anti-doping rules.",
+     "design": "Anti-doping guidance",
+     "badge": "dashed",
+     "url": "https://www.usada.org/athlete-advisory/new-2025-wada-prohibited-list/",
+     "added": "2026-11-14",
+     "auto": false
+    }
+   ]
+  },
+  "bpc-157": {
+   "name": "BPC-157",
+   "eyebrow": "EXPLORE THE EVIDENCE",
+   "heading": "The research behind BPC-157",
+   "intro": "Each entry says who or what was studied. Animal results don't guarantee the same effects in people.",
+   "searchLabel": "Search research",
+   "placeholder": "Study, topic or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "human",
+     "label": "Human studies"
+    },
+    {
+     "key": "repair",
+     "label": "Muscle & tendon"
+    },
+    {
+     "key": "gut",
+     "label": "Gut health"
+    },
+    {
+     "key": "mechanism",
+     "label": "How it works"
+    },
+    {
+     "key": "review",
+     "label": "Reviews"
+    },
+    {
+     "key": "safety",
+     "label": "Safety & regulatory"
+    }
+   ],
+   "studies": [
+    {
+     "id": "vasireddi-et-al-emerging-use-of-bpc-157-in-orthopaedic-sport",
+     "cats": [
+      "repair",
+      "human",
+      "review"
+     ],
+     "study": "Vasireddi et al.",
+     "meta": "2025 · HSS Journal",
+     "title": "Emerging use of BPC-157 in orthopaedic sports medicine: a systematic review",
+     "studied": "36 published studies: 35 in animals or cells, 1 in people",
+     "finding": "Consistent improvements in tendon, ligament, muscle and bone healing in animal models.",
+     "limit": "Almost all evidence is preclinical; well-designed human trials are lacking.",
+     "design": "Systematic review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40756949/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "mcguire-et-al-regeneration-or-risk-a-narrative-review-of-bpc",
+     "cats": [
+      "review",
+      "safety"
+     ],
+     "study": "McGuire et al.",
+     "meta": "2025 · Review",
+     "title": "Regeneration or risk? A narrative review of BPC-157 for musculoskeletal healing",
+     "studied": "Published research on benefits and possible risks",
+     "finding": "Describes promising repair effects alongside open questions, including the theoretical risk of promoting blood vessel growth in tumors.",
+     "limit": "A narrative review, not a trial.",
+     "design": "Review",
+     "badge": "dark",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12446177/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "lee-padgett-intra-articular-injection-of-bpc-157-for-multipl",
+     "cats": [
+      "human",
+      "repair"
+     ],
+     "study": "Lee & Padgett",
+     "meta": "2021 · Altern Ther Health Med",
+     "title": "Intra-articular injection of BPC-157 for multiple types of knee pain",
+     "studied": "16 adults with knee pain, injections into the knee joint",
+     "finding": "14 of 16 reported meaningful pain relief.",
+     "limit": "Retrospective chart review with no control group; injection route differs from what we offer.",
+     "design": "Small human study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Lee%20Padgett%20intra-articular%20injection%20BPC%20157%20knee%20pain%202021",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "lee-walker-ayadi-bpc-157-for-interstitial-cystitis-a-pilot-s",
+     "cats": [
+      "human"
+     ],
+     "study": "Lee, Walker & Ayadi",
+     "meta": "2024 · Altern Ther Health Med",
+     "title": "BPC-157 for interstitial cystitis: a pilot study",
+     "studied": "12 women with interstitial cystitis, injections into the bladder wall",
+     "finding": "10 of 12 reported complete symptom resolution.",
+     "limit": "Very small, uncontrolled; route not offered here.",
+     "design": "Small human study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=BPC-157%20interstitial%20cystitis%20pilot%20study%20Lee%202024",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "lee-burgess-safety-of-intravenous-infusion-of-bpc-157-in-hum",
+     "cats": [
+      "human",
+      "safety"
+     ],
+     "study": "Lee & Burgess",
+     "meta": "2025 · Altern Ther Health Med",
+     "title": "Safety of intravenous infusion of BPC-157 in humans: a pilot study",
+     "studied": "2 healthy adults given BPC-157 by IV",
+     "finding": "No side effects and no changes in heart, liver, kidney, thyroid or blood sugar markers.",
+     "limit": "Only two people; can't establish safety.",
+     "design": "Small human study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "sikiric-et-al-brain-gut-axis-and-pentadecapeptide-bpc-157-th",
+     "cats": [
+      "gut",
+      "mechanism"
+     ],
+     "study": "Sikiric et al.",
+     "meta": "2018 · Curr Neuropharmacol",
+     "title": "Brain-gut axis and pentadecapeptide BPC 157: theoretical and practical implications",
+     "studied": "Review of animal research on the gut and nervous system",
+     "finding": "Summarizes animal findings on gut lining protection, NSAID injury and nerve protection.",
+     "limit": "Animal research, largely from one research group.",
+     "design": "Review (animal research)",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Brain-gut%20axis%20and%20pentadecapeptide%20BPC%20157%20theoretical%20and%20practical%20implications",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "hhs-enforcement-discretion-policy-regarding-503a-compounding",
+     "cats": [
+      "safety"
+     ],
+     "study": "HHS",
+     "meta": "Oct 2026 · Federal Register",
+     "title": "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances",
+     "studied": "Federal rules for compounding six peptides, including BPC-157 acetate",
+     "finding": "Allows 503A compounding of BPC-157 for injection, oral or topical use when ten conditions are met, including single-ingredient products and documented absorption for oral forms.",
+     "limit": "Not FDA approval; temporary, and state rules may differ.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.federalregister.gov/public-inspection/2026-22192/enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "fda-pharmacy-compounding-advisory-committee-meeting-july-23-",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "Jul 2026 · Advisory committee",
+     "title": "Pharmacy Compounding Advisory Committee meeting, July 23-24, 2026",
+     "studied": "Whether BPC-157 and other peptides belong on the list of approved compounding ingredients",
+     "finding": "Committee materials review the available safety and effectiveness data for BPC-157.",
+     "limit": "A regulatory review, not a study.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "usada-wada-bpc-157-on-the-wada-prohibited-list",
+     "cats": [
+      "safety"
+     ],
+     "study": "USADA / WADA",
+     "meta": "Prohibited List",
+     "title": "BPC-157 on the WADA Prohibited List",
+     "studied": "Anti-doping status of BPC-157",
+     "finding": "BPC-157 is prohibited at all times for tested athletes.",
+     "limit": "Applies to athletes under anti-doping rules.",
+     "design": "Anti-doping guidance",
+     "badge": "dashed",
+     "url": "https://www.usada.org/spirit-of-sport/bpc-157-peptide-prohibited/",
+     "added": "2026-11-14",
+     "auto": false
+    }
+   ]
+  },
+  "tb-500": {
+   "name": "TB-500",
+   "eyebrow": "EXPLORE THE EVIDENCE",
+   "heading": "The research behind TB-500",
+   "intro": "Each entry says who or what was studied. Watch whether a study used TB-500 or the full thymosin beta-4 protein, and whether it was in people or animals.",
+   "searchLabel": "Search research",
+   "placeholder": "Study, topic or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "human",
+     "label": "Human studies"
+    },
+    {
+     "key": "repair",
+     "label": "Tendon & muscle"
+    },
+    {
+     "key": "skin",
+     "label": "Wound healing"
+    },
+    {
+     "key": "heart",
+     "label": "Heart"
+    },
+    {
+     "key": "mechanism",
+     "label": "How it works"
+    },
+    {
+     "key": "safety",
+     "label": "Safety & regulatory"
+    }
+   ],
+   "studies": [
+    {
+     "id": "guarnera-et-al-phase-2-trial-of-topical-thymosin-beta-4-gel-",
+     "cats": [
+      "human",
+      "skin"
+     ],
+     "study": "Guarnera et al.",
+     "meta": "2010 · Ann N Y Acad Sci",
+     "title": "Phase 2 trial of topical thymosin beta-4 gel for venous leg ulcers",
+     "studied": "72 adults with venous leg ulcers, gel vs. placebo for up to 84 days",
+     "finding": "Complete healing: 33% on the middle dose vs. 24% on placebo; among those who healed, the middle dose healed about 40% faster.",
+     "limit": "Not statistically significant; a skin gel of the full protein, not TB-500.",
+     "design": "Human RCT (Tβ4 gel)",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=thymosin%20beta%204%20venous%20ulcers%20phase%202%20Guarnera%202010",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "regenerx-study-of-thymosin-beta-4-in-patients-with-pressure-",
+     "cats": [
+      "human",
+      "skin"
+     ],
+     "study": "RegeneRx",
+     "meta": "Phase 2 · NCT00382174",
+     "title": "Study of thymosin beta 4 in patients with pressure ulcers",
+     "studied": "72 adults with pressure ulcers, gel vs. placebo",
+     "finding": "Well tolerated, but no significant difference in complete healing vs. placebo.",
+     "limit": "Full-protein gel, not TB-500.",
+     "design": "Human RCT (Tβ4 gel)",
+     "badge": "gold",
+     "url": "https://clinicaltrials.gov/study/NCT00382174",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "ruff-et-al-phase-1-single-and-multiple-dose-study-of-intrave",
+     "cats": [
+      "human",
+      "safety"
+     ],
+     "study": "Ruff et al.",
+     "meta": "2010 · Ann N Y Acad Sci",
+     "title": "Phase 1 single- and multiple-dose study of intravenous thymosin beta-4 in healthy volunteers",
+     "studied": "Healthy adult volunteers given IV thymosin beta-4",
+     "finding": "Well tolerated with no dose-limiting side effects.",
+     "limit": "Safety only; short-term; full protein, not TB-500.",
+     "design": "Human Phase 1 (Tβ4 IV)",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=intravenous%20thymosin%20beta4%20healthy%20volunteers%20Ruff%202010",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "sosne-et-al-thymosin-beta-4-eye-drops-for-dry-eye-a-phase-2-",
+     "cats": [
+      "human"
+     ],
+     "study": "Sosne et al.",
+     "meta": "2015 · Clin Ophthalmol",
+     "title": "Thymosin beta-4 eye drops for dry eye: a Phase 2 trial",
+     "studied": "72 adults with dry eye, eye drops vs. placebo",
+     "finding": "About 27% greater reduction in eye discomfort than placebo.",
+     "limit": "Missed its main goals; eye drops of the full protein, not TB-500.",
+     "design": "Human RCT (Tβ4 eye drops)",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Sosne%202015%20thymosin%20beta%204%20dry%20eye%20phase%202%20Clinical%20Ophthalmology",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "malinda-et-al-thymosin-beta-4-accelerates-wound-healing",
+     "cats": [
+      "skin",
+      "mechanism"
+     ],
+     "study": "Malinda et al.",
+     "meta": "1999 · J Invest Dermatol",
+     "title": "Thymosin beta-4 accelerates wound healing",
+     "studied": "Full-thickness skin wounds in rats",
+     "finding": "Thymosin beta-4 increased re-epithelialization and wound contraction and promoted new blood vessels and cell migration.",
+     "limit": "Animal study.",
+     "design": "Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Malinda%201999%20thymosin%20beta4%20accelerates%20wound%20healing",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "xu-et-al-thymosin-beta-4-and-medial-collateral-ligament-heal",
+     "cats": [
+      "repair"
+     ],
+     "study": "Xu et al.",
+     "meta": "2013 · Regul Pept",
+     "title": "Thymosin beta-4 and medial collateral ligament healing in rats",
+     "studied": "Rats with a torn knee ligament (MCL)",
+     "finding": "Treated ligaments healed with more organized collagen and better structure.",
+     "limit": "Animal study.",
+     "design": "Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=thymosin%20beta%204%20medial%20collateral%20ligament%20healing%20rat%202013",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "bock-marquette-et-al-thymosin-beta-4-activates-integrin-link",
+     "cats": [
+      "heart",
+      "mechanism"
+     ],
+     "study": "Bock-Marquette et al.",
+     "meta": "2004 · Nature",
+     "title": "Thymosin beta-4 activates integrin-linked kinase and promotes cardiac cell migration, survival and cardiac repair",
+     "studied": "Mice after a heart attack",
+     "finding": "Improved heart function and survival and reduced scarring.",
+     "limit": "Animal study; not a basis for treating heart disease.",
+     "design": "Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Thymosin%20beta4%20activates%20integrin-linked%20kinase%20and%20promotes%20cardiac%20cell%20migration%20survival%20and%20cardiac%20repair",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "hhs-enforcement-discretion-policy-regarding-503a-compounding",
+     "cats": [
+      "safety"
+     ],
+     "study": "HHS",
+     "meta": "Oct 2026 · Federal Register",
+     "title": "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances",
+     "studied": "Federal rules for compounding six peptides, including TB-500 acetate",
+     "finding": "Allows 503A compounding of TB-500 as a subcutaneous or intramuscular injection when ten conditions are met, including single-ingredient products.",
+     "limit": "Not FDA approval; temporary, and state rules may differ.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.federalregister.gov/public-inspection/2026-22192/enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "fda-pharmacy-compounding-advisory-committee-meeting-july-23-",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "Jul 2026 · Advisory committee",
+     "title": "Pharmacy Compounding Advisory Committee meeting, July 23-24, 2026",
+     "studied": "Whether TB-500 and other peptides belong on the list of approved compounding ingredients",
+     "finding": "The committee voted in favor of TB-500; FDA reviewers noted limited human clinical evidence.",
+     "limit": "A regulatory review, not a study.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "wada-tb-500-and-thymosin-beta-4-on-the-wada-prohibited-list",
+     "cats": [
+      "safety"
+     ],
+     "study": "WADA",
+     "meta": "Prohibited List",
+     "title": "TB-500 and thymosin beta-4 on the WADA Prohibited List",
+     "studied": "Anti-doping status",
+     "finding": "Prohibited at all times for tested athletes.",
+     "limit": "Applies to athletes under anti-doping rules.",
+     "design": "Anti-doping guidance",
+     "badge": "dashed",
+     "url": "https://www.wada-ama.org/en/prohibited-list",
+     "added": "2026-11-14",
+     "auto": false
+    }
+   ]
+  },
+  "bpc-157-kpv": {
+   "name": "BPC-157 & KPV",
+   "eyebrow": "EXPLORE THE EVIDENCE",
+   "heading": "The research behind BPC-157 and KPV",
+   "intro": "Each entry says which peptide and who or what was studied. Animal results don't guarantee the same effects in people.",
+   "searchLabel": "Search research",
+   "placeholder": "Study, topic or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "gut",
+     "label": "Gut health"
+    },
+    {
+     "key": "human",
+     "label": "Human studies"
+    },
+    {
+     "key": "mechanism",
+     "label": "How it works"
+    },
+    {
+     "key": "skin",
+     "label": "Skin"
+    },
+    {
+     "key": "repair",
+     "label": "Tissue repair"
+    },
+    {
+     "key": "safety",
+     "label": "Safety & regulatory"
+    }
+   ],
+   "studies": [
+    {
+     "id": "dalmasso-et-al-pept1-mediated-tripeptide-kpv-uptake-reduces-",
+     "cats": [
+      "gut",
+      "mechanism"
+     ],
+     "study": "Dalmasso et al.",
+     "meta": "2008 · Gastroenterology",
+     "title": "PepT1-mediated tripeptide KPV uptake reduces intestinal inflammation",
+     "studied": "Intestinal cells and mice with colitis given oral KPV",
+     "finding": "KPV was carried into gut cells by the PepT1 transporter and reduced inflammation and tissue damage.",
+     "limit": "Cell and mouse study; not tested in people.",
+     "design": "KPV · Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=PepT1-mediated%20tripeptide%20KPV%20uptake%20reduces%20intestinal%20inflammation",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "kannengiesser-et-al-melanocortin-derived-tripeptide-kpv-has-",
+     "cats": [
+      "gut"
+     ],
+     "study": "Kannengiesser et al.",
+     "meta": "2008 · Inflamm Bowel Dis",
+     "title": "Melanocortin-derived tripeptide KPV has anti-inflammatory potential in murine models of inflammatory bowel disease",
+     "studied": "Two mouse models of colitis",
+     "finding": "KPV reduced weight loss and gut inflammation in both models.",
+     "limit": "Animal study.",
+     "design": "KPV · Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Melanocortin-derived%20tripeptide%20KPV%20anti-inflammatory%20murine%20models%20inflammatory%20bowel%20disease%20Kannengiesser",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "brzoska-et-al-alpha-melanocyte-stimulating-hormone-and-relat",
+     "cats": [
+      "mechanism",
+      "skin"
+     ],
+     "study": "Brzoska et al.",
+     "meta": "2008 · Endocr Rev",
+     "title": "Alpha-melanocyte-stimulating hormone and related tripeptides: anti-inflammatory and protective effects",
+     "studied": "Review of alpha-MSH, KPV and related tripeptides",
+     "finding": "Summarizes anti-inflammatory and protective effects in lab and animal models, including gut and skin.",
+     "limit": "A review of mostly preclinical research.",
+     "design": "KPV · Review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Brzoska%202008%20alpha-melanocyte-stimulating%20hormone%20and%20related%20tripeptides%20Endocrine%20Reviews",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "kdpt-study-group-kdpt-a-related-tripeptide-in-mild-to-modera",
+     "cats": [
+      "gut",
+      "human"
+     ],
+     "study": "KdPT study group",
+     "meta": "2017 · Randomized trial",
+     "title": "KdPT, a related tripeptide, in mild-to-moderate ulcerative colitis",
+     "studied": "Adults with ulcerative colitis given KdPT, a lab-made relative of KPV",
+     "finding": "Tested tolerability and anti-inflammatory effects in people with UC.",
+     "limit": "KdPT is a different molecule; results don't apply directly to KPV.",
+     "design": "Related molecule · Human trial",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=KdPT%20ulcerative%20colitis%20randomized%20multicenter%20study",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "sung-et-al-lys-pro-val-reduces-fine-dust-induced-inflammatio",
+     "cats": [
+      "skin",
+      "mechanism"
+     ],
+     "study": "Sung et al.",
+     "meta": "2025 · Tissue Cell",
+     "title": "Lys-Pro-Val reduces fine-dust-induced inflammation in skin cells",
+     "studied": "Human skin cells exposed to fine dust",
+     "finding": "KPV lowered oxidative stress, cell death and inflammatory signaling.",
+     "limit": "Cell study only.",
+     "design": "KPV · Cell study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Lys-Pro-Val%20fine%20dust%20keratinocytes%202025",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "sikiric-et-al-brain-gut-axis-and-pentadecapeptide-bpc-157-th",
+     "cats": [
+      "gut",
+      "mechanism"
+     ],
+     "study": "Sikiric et al.",
+     "meta": "2018 · Curr Neuropharmacol",
+     "title": "Brain-gut axis and pentadecapeptide BPC 157: theoretical and practical implications",
+     "studied": "Review of animal research on the gut and nervous system",
+     "finding": "Summarizes animal findings on gut lining protection, NSAID injury and nerve protection.",
+     "limit": "Animal research, largely from one research group.",
+     "design": "BPC-157 · Review",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Brain-gut%20axis%20and%20pentadecapeptide%20BPC%20157%20theoretical%20and%20practical%20implications",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "vasireddi-et-al-emerging-use-of-bpc-157-in-orthopaedic-sport",
+     "cats": [
+      "repair",
+      "human"
+     ],
+     "study": "Vasireddi et al.",
+     "meta": "2025 · HSS Journal",
+     "title": "Emerging use of BPC-157 in orthopaedic sports medicine: a systematic review",
+     "studied": "36 published studies: 35 in animals or cells, 1 in people",
+     "finding": "Consistent improvements in tendon, ligament, muscle and bone healing in animal models.",
+     "limit": "Almost all evidence is preclinical; not about the gut.",
+     "design": "BPC-157 · Systematic review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40756949/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "lee-burgess-safety-of-intravenous-infusion-of-bpc-157-in-hum",
+     "cats": [
+      "human",
+      "safety"
+     ],
+     "study": "Lee & Burgess",
+     "meta": "2025 · Altern Ther Health Med",
+     "title": "Safety of intravenous infusion of BPC-157 in humans: a pilot study",
+     "studied": "2 healthy adults given BPC-157 by IV",
+     "finding": "No side effects and no changes in heart, liver, kidney, thyroid or blood sugar markers.",
+     "limit": "Only two people; can't establish safety.",
+     "design": "BPC-157 · Small human study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "hhs-enforcement-discretion-policy-regarding-503a-compounding",
+     "cats": [
+      "safety"
+     ],
+     "study": "HHS",
+     "meta": "Oct 2026 · Federal Register",
+     "title": "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances",
+     "studied": "Federal rules for compounding six peptides, including BPC-157 and KPV",
+     "finding": "Allows 503A compounding of BPC-157 (injection, oral, topical) and KPV (oral, topical) under ten conditions, including single-ingredient products only.",
+     "limit": "Not FDA approval; temporary, and state rules may differ.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.federalregister.gov/public-inspection/2026-22192/enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances",
+     "added": "2026-11-14",
+     "auto": false
+    },
+    {
+     "id": "fda-pharmacy-compounding-advisory-committee-meeting-july-23-",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "Jul 2026 · Advisory committee",
+     "title": "Pharmacy Compounding Advisory Committee meeting, July 23-24, 2026",
+     "studied": "Whether BPC-157, KPV and other peptides belong on the list of approved compounding ingredients",
+     "finding": "Committee materials review the available safety and effectiveness data.",
+     "limit": "A regulatory review, not a study.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+     "added": "2026-11-14",
+     "auto": false
+    }
+   ]
+  }
+ }
+}
