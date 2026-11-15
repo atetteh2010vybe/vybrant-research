@@ -1717,6 +1717,204 @@
      "auto": true
     }
    ]
+  },
+  "epithalon": {
+   "name": "Epithalon",
+   "eyebrow": "EXPLORE THE EVIDENCE",
+   "heading": "The research behind Epithalon",
+   "intro": "Each entry says who or what was studied. Watch whether a study used Epithalon or the older pineal extract epithalamin, and whether it was in people, animals or cells.",
+   "searchLabel": "Search research",
+   "placeholder": "Study, topic or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "human",
+     "label": "Human studies"
+    },
+    {
+     "key": "telomeres",
+     "label": "Telomeres"
+    },
+    {
+     "key": "sleep",
+     "label": "Sleep & melatonin"
+    },
+    {
+     "key": "aging",
+     "label": "Aging & lifespan"
+    },
+    {
+     "key": "mechanism",
+     "label": "How it works"
+    },
+    {
+     "key": "safety",
+     "label": "Safety & regulatory"
+    }
+   ],
+   "studies": [
+    {
+     "id": "khavinson-et-al-epithalon-peptide-induces-telomerase-activit",
+     "cats": [
+      "telomeres",
+      "mechanism"
+     ],
+     "study": "Khavinson et al.",
+     "meta": "2003 · Bull Exp Biol Med",
+     "title": "Epithalon peptide induces telomerase activity and telomere elongation in human somatic cells",
+     "studied": "Human fetal fibroblasts grown in the lab",
+     "finding": "Epithalon switched on the telomerase enzyme and lengthened telomeres in cells that normally lack telomerase.",
+     "limit": "Cell study from the group that developed Epithalon; not tested in people.",
+     "design": "Cell study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12937682/",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "al-dulaimi-et-al-epitalon-increases-telomere-length-in-human",
+     "cats": [
+      "telomeres",
+      "mechanism",
+      "safety"
+     ],
+     "study": "Al-Dulaimi et al.",
+     "meta": "2025 · Biogerontology",
+     "title": "Epitalon increases telomere length in human cell lines through telomerase upregulation or ALT activity",
+     "studied": "Normal human fibroblasts and breast cells, and two breast cancer cell lines",
+     "finding": "An independent group confirmed telomerase activation and longer telomeres in normal cells. In breast cancer cells, telomeres also lengthened, through a different pathway (ALT).",
+     "limit": "Cell study only. The cancer-cell finding is a reason for caution, not reassurance.",
+     "design": "Cell study (independent replication)",
+     "badge": "tint",
+     "url": "https://doi.org/10.1007/s10522-025-10315-x",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "anisimov-et-al-effect-of-epitalon-on-biomarkers-of-aging-lif",
+     "cats": [
+      "aging"
+     ],
+     "study": "Anisimov et al.",
+     "meta": "2003 · Biogerontology",
+     "title": "Effect of Epitalon on biomarkers of aging, life span and spontaneous tumor incidence in female mice",
+     "studied": "Female mice given Epithalon in monthly courses",
+     "finding": "Slowed some markers of aging and increased maximum lifespan; mean lifespan did not change.",
+     "limit": "Animal study from the original research group.",
+     "design": "Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Anisimov%20Epitalon%20biomarkers%20of%20aging%20life%20span%20spontaneous%20tumor%20incidence%20female%20SHR%20mice",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "khavinson-goncharova-lapin-synthetic-tetrapeptide-epitalon-r",
+     "cats": [
+      "sleep"
+     ],
+     "study": "Khavinson, Goncharova & Lapin",
+     "meta": "2001 · Neuro Endocrinol Lett",
+     "title": "Synthetic tetrapeptide epitalon restores disturbed neuroendocrine regulation in senescent monkeys",
+     "studied": "Young and old rhesus monkeys",
+     "finding": "Epithalon raised the evening melatonin level in old monkeys and normalized the daily cortisol rhythm.",
+     "limit": "Small animal study; human sleep data are limited.",
+     "design": "Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11524632/",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "khavinson-morozov-peptides-of-pineal-gland-and-thymus-prolon",
+     "cats": [
+      "human",
+      "aging"
+     ],
+     "study": "Khavinson & Morozov",
+     "meta": "2003 · Neuroendocrinol Lett",
+     "title": "Peptides of pineal gland and thymus prolong human life",
+     "studied": "266 elderly people given pineal (epithalamin) and thymus extracts, followed 6 to 8 years",
+     "finding": "Treated groups had lower death rates than untreated groups.",
+     "limit": "Used epithalamin, not Epithalon; no placebo or blinding; not independently repeated.",
+     "design": "Older human study (epithalamin)",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/14523363/",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "khavinson-et-al-pineal-regulating-tetrapeptide-epitalon-impr",
+     "cats": [
+      "human"
+     ],
+     "study": "Khavinson et al.",
+     "meta": "2002 · Neuro Endocrinol Lett",
+     "title": "Pineal-regulating tetrapeptide epitalon improves eye retina condition in retinitis pigmentosa",
+     "studied": "Rats with inherited retinal degeneration and patients with retinitis pigmentosa",
+     "finding": "Reported better retinal function in treated animals and improved visual function in some patients.",
+     "limit": "Uncontrolled, from the original research group; not independently confirmed.",
+     "design": "Early human report",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12195242/",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "khavinson-peptides-and-ageing",
+     "cats": [
+      "mechanism",
+      "aging"
+     ],
+     "study": "Khavinson",
+     "meta": "2002 · Neuro Endocrinol Lett",
+     "title": "Peptides and ageing",
+     "studied": "Review of the group's pineal and thymus peptide research",
+     "finding": "Summarizes decades of cell, animal and human work on short regulatory peptides.",
+     "limit": "A review written by the research group that developed the peptides.",
+     "design": "Review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12374906/",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "hhs-enforcement-discretion-policy-regarding-503a-compounding",
+     "cats": [
+      "safety"
+     ],
+     "study": "HHS",
+     "meta": "Oct 2026 · Federal Register",
+     "title": "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances",
+     "studied": "Federal rules for compounding six peptides, including Epithalon (Epitalon acetate)",
+     "finding": "Allows 503A compounding of Epithalon as an injection, dispensed in intermittent courses, when ten conditions are met.",
+     "limit": "Not FDA approval; temporary, and state rules may differ.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.federalregister.gov/public-inspection/2026-22192/enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "fda-pharmacy-compounding-advisory-committee-meeting-july-23-",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "Jul 2026 · Advisory committee",
+     "title": "Pharmacy Compounding Advisory Committee meeting, July 23-24, 2026",
+     "studied": "Whether Epithalon and other peptides belong on the list of approved compounding ingredients",
+     "finding": "The committee voted in favor; FDA reviewers noted limited human clinical evidence.",
+     "limit": "A regulatory review, not a study.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+     "added": "2026-11-15",
+     "auto": false
+    }
+   ]
   }
  }
 }

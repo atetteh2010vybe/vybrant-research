@@ -14,3 +14,6 @@
 - mots-c · Musolino et al. · MOTS-c is associated with oxidative stress and arterial stiffness in peritoneal dialysis patients: a pilot study · PMID 42126770
 - tb-500 · Banga et al. · Adjunctive recombinant human thymosin β4 therapy improves antibacterial outcomes against Staphylococcus aureus · PMID 42954461
 - bpc-157-kpv · Bai et al. · Lysine-Proline-Valine attenuates oxidized low-density lipoprotein-induced foam cell formation and inflammatory responses in RAW264.7 macrophages · PMID 42854645
+
+## 2026-11-15 (Epithalon)
+- Added Epithalon (Epitalon) page: 9 entries.
