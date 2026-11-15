@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "pages": {
   "tirzepatide": {
    "name": "Compounded Tirzepatide",
@@ -213,6 +213,42 @@
      "url": "https://doi.org/10.1111/dom.16275",
      "added": "2026-11-14",
      "auto": false
+    },
+    {
+     "id": "surmount-osa-kanu-et-al-changes-in-patient-reported-outcomes",
+     "cats": [
+      "sleep"
+     ],
+     "study": "SURMOUNT-OSA (Kanu et al.)",
+     "meta": "2026 · Sleep",
+     "title": "Changes in patient-reported outcomes and objective assessments based on baseline symptom severity in SURMOUNT-OSA: post-hoc analyses",
+     "studied": "Adults with obesity and moderate-to-severe obstructive sleep apnea in two 52-week placebo-controlled trials, grouped by how tired, sleepy or snoring they were at the start.",
+     "finding": "Compared with placebo, tirzepatide was linked to larger gains in self-reported sleep and daily function, and people with worse symptoms at the start tended to report bigger gains.",
+     "limit": "This was a later look back at trial data by subgroup, so the subgroup differences are less certain than the main trial results.",
+     "design": "Human randomized trial (follow-up analysis)",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42412744/",
+     "pmid": "42412744",
+     "added": "2026-11-15",
+     "auto": true
+    },
+    {
+     "id": "paccola-et-al-comparative-efficacy-of-tirzepatide-versus-sem",
+     "cats": [
+      "weight"
+     ],
+     "study": "Paccola et al.",
+     "meta": "2026 · Clin Obes",
+     "title": "Comparative Efficacy of Tirzepatide Versus Semaglutide for Weight Loss in Adults With Overweight or Obesity: A Systematic Review and Meta-Analysis of Head-to-Head Studies",
+     "studied": "10 head-to-head studies (41,381 adults with overweight or obesity) that compared tirzepatide with semaglutide for at least 24 weeks.",
+     "finding": "Tirzepatide was linked to about 4 percentage points more weight loss than semaglutide, but serious side effects were reported more often with tirzepatide.",
+     "limit": "The pooled studies included observational studies as well as randomized trials, which can make comparisons less reliable.",
+     "design": "Meta-analysis",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42670242/",
+     "pmid": "42670242",
+     "added": "2026-11-15",
+     "auto": true
     }
    ]
   },
@@ -499,6 +535,43 @@
      "url": "",
      "added": "2026-11-14",
      "auto": false
+    },
+    {
+     "id": "tuttle-et-al-effects-of-semaglutide-on-kidney-disease-in-typ",
+     "cats": [
+      "kidney",
+      "diabetes"
+     ],
+     "study": "Tuttle et al.",
+     "meta": "2026 · Nat Med",
+     "title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial",
+     "studied": "106 adults with type 2 diabetes and chronic kidney disease, given weekly semaglutide or placebo for 52 weeks, with kidney scans and some biopsies.",
+     "finding": "The main kidney scan measures did not change significantly, but secondary results suggested less blood-flow resistance and slower scarring in the kidney with semaglutide.",
+     "limit": "The main goals of the trial were not met, and the possible benefits come from secondary measures in a small group.",
+     "design": "Human randomized trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42823485/",
+     "pmid": "42823485",
+     "added": "2026-11-15",
+     "auto": true
+    },
+    {
+     "id": "step-12-guo-et-al-efficacy-and-safety-of-once-weekly-semaglu",
+     "cats": [
+      "weight"
+     ],
+     "study": "STEP 12 (Guo et al.)",
+     "meta": "2026 · Lancet Diabetes Endocrinol",
+     "title": "Efficacy and safety of once-weekly semaglutide 2·4 mg in Chinese adults with overweight or obesity (STEP 12): a randomised, double-blind, placebo-controlled, multicentre, phase 3b trial",
+     "studied": "242 adults with overweight or obesity in mainland China and Taiwan, given weekly semaglutide or placebo plus lifestyle advice for 44 weeks.",
+     "finding": "Average weight loss was 12.1% with semaglutide compared with 2.2% with placebo, and stomach and gut side effects were the most common.",
+     "limit": "The trial lasted 44 weeks, was funded by the drug maker, and studied only Chinese adults, so results may differ in other groups.",
+     "design": "Human randomized trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42575111/",
+     "pmid": "42575111",
+     "added": "2026-11-15",
+     "auto": true
     }
    ]
   },
@@ -899,6 +972,62 @@
      "url": "https://www.usada.org/athlete-advisory/new-2025-wada-prohibited-list/",
      "added": "2026-11-14",
      "auto": false
+    },
+    {
+     "id": "ayubi-et-al-mitochondrial-derived-peptides-mdps-activated-by",
+     "cats": [
+      "exercise",
+      "metabolic"
+     ],
+     "study": "Ayubi et al.",
+     "meta": "2026 · Physiol Int",
+     "title": "Mitochondrial-derived peptides (MDPs) activated by physical exercise as therapeutic targets for metabolic disorders: A systematic review",
+     "studied": "9 studies on exercise and mitochondrial-derived peptides, a group that includes MOTS-c and humanin.",
+     "finding": "Most of the studies reported a trend toward higher levels of these peptides after exercise.",
+     "limit": "Only 9 studies with different designs were included, few were in people, and results were not reported for MOTS-c on its own.",
+     "design": "Systematic review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42640735/",
+     "pmid": "42640735",
+     "added": "2026-11-15",
+     "auto": true
+    },
+    {
+     "id": "zhang-et-al-associations-of-serum-mots-c-with-exercise-capac",
+     "cats": [
+      "human",
+      "exercise"
+     ],
+     "study": "Zhang et al.",
+     "meta": "2026 · Antioxidants (Basel)",
+     "title": "Associations of Serum MOTS-c with Exercise Capacity and Antioxidant Markers in Young Males: A Cross-Sectional Study",
+     "studied": "30 healthy young men aged 18 to 25: 10 elite athletes, 10 active men and 10 inactive men.",
+     "finding": "Blood MOTS-c levels were highest in athletes and lowest in inactive men, and higher levels went along with better fitness and antioxidant markers.",
+     "limit": "This small study measured people at one point in time, so it cannot show that MOTS-c causes better fitness.",
+     "design": "Small human study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42939841/",
+     "pmid": "42939841",
+     "added": "2026-11-15",
+     "auto": true
+    },
+    {
+     "id": "musolino-et-al-mots-c-is-associated-with-oxidative-stress-an",
+     "cats": [
+      "human"
+     ],
+     "study": "Musolino et al.",
+     "meta": "2026 · Int Urol Nephrol",
+     "title": "MOTS-c is associated with oxidative stress and arterial stiffness in peritoneal dialysis patients: a pilot study",
+     "studied": "32 adults on peritoneal dialysis whose MOTS-c levels were measured in blood, urine and dialysis fluid.",
+     "finding": "MOTS-c levels in urine and dialysis fluid were linked to markers of oxidative stress and artery stiffness, in mixed directions.",
+     "limit": "This small pilot study only looked at links between measurements; it did not give MOTS-c to anyone.",
+     "design": "Small human study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42126770/",
+     "pmid": "42126770",
+     "added": "2026-11-15",
+     "auto": true
     }
    ]
   },
@@ -1098,6 +1227,26 @@
      "url": "https://www.usada.org/spirit-of-sport/bpc-157-peptide-prohibited/",
      "added": "2026-11-14",
      "auto": false
+    },
+    {
+     "id": "poolton-et-al-human-evidence-for-bpc-157-in-orthopaedic-and",
+     "cats": [
+      "human",
+      "review",
+      "safety"
+     ],
+     "study": "Poolton et al.",
+     "meta": "2026 · Acta Orthop Belg",
+     "title": "Human evidence for BPC-157 in orthopaedic and regenerative medicine: a systematic review of efficacy and safety",
+     "studied": "A review of all human studies of BPC-157 it could find; only 3 small studies with 30 people in total qualified.",
+     "finding": "The 3 studies reported symptom improvement in most people with no treatment-related side effects, but the reviewers rated the evidence as very low certainty.",
+     "limit": "The studies were small, mostly looked back at past records, and had no control group; the authors said BPC-157 should only be used in approved clinical trials.",
+     "design": "Systematic review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42885452/",
+     "pmid": "42885452",
+     "added": "2026-11-15",
+     "auto": true
     }
    ]
   },
@@ -1313,6 +1462,24 @@
      "url": "https://www.wada-ama.org/en/prohibited-list",
      "added": "2026-11-14",
      "auto": false
+    },
+    {
+     "id": "banga-et-al-adjunctive-recombinant-human-thymosin-4-therapy",
+     "cats": [
+      "mechanism"
+     ],
+     "study": "Banga et al.",
+     "meta": "2026 · Microbiol Spectr",
+     "title": "Adjunctive recombinant human thymosin β4 therapy improves antibacterial outcomes against Staphylococcus aureus",
+     "studied": "Lab-dish tests of man-made human thymosin beta-4 on Staphylococcus aureus bacteria, alone and with antibiotics.",
+     "finding": "Thymosin beta-4 alone did little to kill the bacteria, but it boosted the effect of some antibiotics against free-floating bacteria.",
+     "limit": "This was a lab study only and was not tested in people; it had little effect on established bacterial biofilms.",
+     "design": "Lab study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42954461/",
+     "pmid": "42954461",
+     "added": "2026-11-15",
+     "auto": true
     }
    ]
   },
@@ -1530,6 +1697,24 @@
      "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
      "added": "2026-11-14",
      "auto": false
+    },
+    {
+     "id": "bai-et-al-lysine-proline-valine-attenuates-oxidized-low-dens",
+     "cats": [
+      "mechanism"
+     ],
+     "study": "Bai et al.",
+     "meta": "2026 · Tissue Cell",
+     "title": "Lysine-Proline-Valine attenuates oxidized low-density lipoprotein-induced foam cell formation and inflammatory responses in RAW264.7 macrophages",
+     "studied": "Mouse immune cells (RAW264.7 macrophages) in a lab dish exposed to oxidized LDL cholesterol.",
+     "finding": "KPV reduced fat buildup and inflammation signals in the cells without harming them.",
+     "limit": "This was a cell study in mouse cells and was not tested in people.",
+     "design": "KPV · Cell study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42854645/",
+     "pmid": "42854645",
+     "added": "2026-11-15",
+     "auto": true
     }
    ]
   }
