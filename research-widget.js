@@ -191,7 +191,22 @@
     }
     draw();
     root.appendChild(sec);
+    root._vrSetFilter = function (key) {
+      var ok = (page.filters || []).some(function (f) { return f.key === key; });
+      state.filter = ok ? key : 'all'; state.q = ''; inp.value = ''; draw();
+    };
+    if (root._vrPending) { root._vrSetFilter(root._vrPending); root._vrPending = null; }
   }
+
+  // "Explore related research" links elsewhere on the page: <a href="#research" data-vr-filter="liver">
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest && e.target.closest('[data-vr-filter]');
+    if (!a) return;
+    var key = a.getAttribute('data-vr-filter');
+    Array.prototype.forEach.call(document.querySelectorAll('[data-vybrant-research]'), function (root) {
+      if (root._vrSetFilter) root._vrSetFilter(key); else root._vrPending = key;
+    });
+  });
 
   function fail(root) {
     root.innerHTML = '';
