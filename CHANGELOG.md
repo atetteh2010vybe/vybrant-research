@@ -17,3 +17,6 @@
 
 ## 2026-11-15 (Epithalon)
 - Added Epithalon (Epitalon) page: 9 entries.
+
+## 2026-11-15 (Semax)
+- Added Semax page: 8 entries.

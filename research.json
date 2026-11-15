@@ -1915,6 +1915,188 @@
      "auto": false
     }
    ]
+  },
+  "semax": {
+   "name": "Semax",
+   "eyebrow": "EXPLORE THE EVIDENCE",
+   "heading": "The research behind Semax",
+   "intro": "Each entry says who or what was studied. Watch whether a study was in people or animals, and whether it studied stroke or healthy adults.",
+   "searchLabel": "Search research",
+   "placeholder": "Study, topic or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "human",
+     "label": "Human studies"
+    },
+    {
+     "key": "stroke",
+     "label": "Stroke recovery"
+    },
+    {
+     "key": "cognition",
+     "label": "Focus & memory"
+    },
+    {
+     "key": "mood",
+     "label": "Mood"
+    },
+    {
+     "key": "mechanism",
+     "label": "How it works"
+    },
+    {
+     "key": "safety",
+     "label": "Safety & regulatory"
+    }
+   ],
+   "studies": [
+    {
+     "id": "gusev-et-al-the-efficacy-of-semax-in-the-treatment-of-patien",
+     "cats": [
+      "stroke",
+      "human"
+     ],
+     "study": "Gusev et al.",
+     "meta": "2018 · Zh Nevrol Psikhiatr (Russian)",
+     "title": "The efficacy of semax in the treatment of patients at different stages of ischemic stroke",
+     "studied": "110 adults in rehabilitation after ischemic stroke, with and without Semax",
+     "finding": "Semax was linked with higher blood BDNF, faster functional recovery and better motor performance.",
+     "limit": "Not blinded or placebo-controlled; published in Russian; not independently repeated.",
+     "design": "Human clinical study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29798983/",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "gusev-et-al-effectiveness-of-semax-in-acute-period-of-hemisp",
+     "cats": [
+      "stroke",
+      "human"
+     ],
+     "study": "Gusev et al.",
+     "meta": "1997 · Zh Nevrol Psikhiatr (Russian)",
+     "title": "Effectiveness of semax in acute period of hemispheric ischemic stroke (a clinical and electrophysiological study)",
+     "studied": "30 patients in the first days after an ischemic stroke, compared with controls",
+     "finding": "Adding Semax to standard care was associated with faster recovery of neurological function.",
+     "limit": "Small; older; published in Russian.",
+     "design": "Human clinical study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11517472/",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "dolotov-et-al-semax-an-analog-of-acth-4-10-with-cognitive-ef",
+     "cats": [
+      "mechanism",
+      "cognition"
+     ],
+     "study": "Dolotov et al.",
+     "meta": "2006 · Brain Res",
+     "title": "Semax, an analog of ACTH(4-10) with cognitive effects, regulates BDNF and trkB expression in the rat hippocampus",
+     "studied": "Rats given a single nasal dose",
+     "finding": "Semax raised BDNF and its receptor in the hippocampus, the brain's memory center.",
+     "limit": "Animal study; single dose.",
+     "design": "Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Semax%20analog%20of%20ACTH(4-10)%20with%20cognitive%20effects%20regulates%20BDNF%20and%20trkB%20expression%20in%20the%20rat%20hippocampus",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "eremin-et-al-semax-an-acth-4-10-analogue-with-nootropic-prop",
+     "cats": [
+      "mood",
+      "mechanism"
+     ],
+     "study": "Eremin et al.",
+     "meta": "2005 · Neurochem Res",
+     "title": "Semax, an ACTH(4-10) analogue with nootropic properties, activates dopaminergic and serotoninergic brain systems in rodents",
+     "studied": "Rats and mice",
+     "finding": "Semax increased dopamine and serotonin activity in brain areas linked to motivation and mood.",
+     "limit": "Animal study; not tested as a mood treatment in people.",
+     "design": "Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Semax%20ACTH(4-10)%20analogue%20nootropic%20properties%20activates%20dopaminergic%20serotoninergic%20brain%20systems%20rodents",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "dmitrieva-et-al-semax-and-pro-gly-pro-activate-the-transcrip",
+     "cats": [
+      "stroke",
+      "mechanism"
+     ],
+     "study": "Dmitrieva et al.",
+     "meta": "2010 · Cell Mol Neurobiol",
+     "title": "Semax and Pro-Gly-Pro activate the transcription of neurotrophins and their receptor genes after cerebral ischemia",
+     "studied": "Rats after a stroke",
+     "finding": "Semax switched on genes for BDNF and other brain growth factors in injured brain tissue.",
+     "limit": "Animal study.",
+     "design": "Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19633950/",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "filippenkov-et-al-novel-insights-into-the-protective-propert",
+     "cats": [
+      "stroke",
+      "mechanism"
+     ],
+     "study": "Filippenkov et al.",
+     "meta": "2020 · Genes",
+     "title": "Novel insights into the protective properties of ACTH(4-7)PGP (Semax) peptide at the transcriptome level following cerebral ischaemia-reperfusion in rats",
+     "studied": "Rats after brain ischemia and restored blood flow",
+     "finding": "Semax shifted the activity of many genes toward less inflammation and more repair and blood-vessel support.",
+     "limit": "Animal study.",
+     "design": "Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Novel%20insights%20into%20the%20protective%20properties%20of%20ACTH(4-7)PGP%20(Semax)%20peptide%20at%20the%20transcriptome%20level%20following%20cerebral%20ischaemia%20reperfusion%20in%20rats",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "hhs-enforcement-discretion-policy-regarding-503a-compounding",
+     "cats": [
+      "safety"
+     ],
+     "study": "HHS",
+     "meta": "Oct 2026 · Federal Register",
+     "title": "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances",
+     "studied": "Federal rules for compounding six peptides, including Semax (free base)",
+     "finding": "Allows 503A compounding of Semax for intranasal use when ten conditions are met, including single-ingredient products.",
+     "limit": "Not FDA approval; temporary, and state rules may differ.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.federalregister.gov/public-inspection/2026-22192/enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances",
+     "added": "2026-11-15",
+     "auto": false
+    },
+    {
+     "id": "fda-pharmacy-compounding-advisory-committee-meeting-july-23-",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "Jul 2026 · Advisory committee",
+     "title": "Pharmacy Compounding Advisory Committee meeting, July 23-24, 2026",
+     "studied": "Whether Semax and other peptides belong on the list of approved compounding ingredients",
+     "finding": "Reviewed Semax for cerebral ischemia, migraine and trigeminal neuralgia; the committee vote was favorable.",
+     "limit": "A regulatory review, not a study; the vote is non-binding.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+     "added": "2026-11-15",
+     "auto": false
+    }
+   ]
   }
  }
 }

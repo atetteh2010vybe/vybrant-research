@@ -50,7 +50,8 @@
       "compounding peptides enforcement discretion",
       "tirzepatide compounding",
       "semaglutide compounding",
-      "epitalon"
+      "epitalon",
+      "semax"
     ],
     "fda_pages": [
       "https://www.fda.gov/drugs/human-drug-compounding",
@@ -81,11 +82,19 @@
       ],
       "Epitalon": [
         "epithalon"
+      ],
+      "Semax": [
+        "semax"
       ]
     }
   },
   "epithalon": {
     "pubmed": "epitalon[tiab] OR epithalon[tiab] OR \"Ala-Glu-Asp-Gly\"[tiab] OR AEDG peptide[tiab]",
+    "only": [],
+    "max_per_week": 3
+  },
+  "semax": {
+    "pubmed": "semax[tiab] OR \"ACTH(4-7)PGP\"[tiab] OR \"ACTH (4-7) PGP\"[tiab] OR \"Met-Glu-His-Phe-Pro-Gly-Pro\"[tiab]",
     "only": [],
     "max_per_week": 3
   }
