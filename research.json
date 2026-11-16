@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "pages": {
   "tirzepatide": {
    "name": "Compounded Tirzepatide",
@@ -248,6 +248,42 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42670242/",
      "pmid": "42670242",
      "added": "2026-11-15",
+     "auto": true
+    },
+    {
+     "id": "merola-et-al-ixekizumab-with-tirzepatide-achieved-greater-di",
+     "cats": [
+      "weight"
+     ],
+     "study": "TOGETHER-PsA (Merola et al.)",
+     "meta": "2026 · Arthritis Rheumatol",
+     "title": "Ixekizumab With Tirzepatide Achieved Greater Disease Control Than Ixekizumab Alone in Adults With Psoriatic Arthritis and Overweight or Obesity: Results From a Randomized Clinical Trial",
+     "studied": "271 adults with active psoriatic arthritis and overweight or obesity, who got the arthritis drug ixekizumab with or without tirzepatide for 52 weeks.",
+     "finding": "At 36 weeks, 31.7% of people on both drugs reached at least 50% arthritis improvement plus at least 10% weight loss, compared with 0.8% on ixekizumab alone.",
+     "limit": "Results apply to people with psoriatic arthritis who were also taking ixekizumab; tirzepatide was not tested on its own.",
+     "design": "Human randomized trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41903163/",
+     "pmid": "41903163",
+     "added": "2026-11-16",
+     "auto": true
+    },
+    {
+     "id": "moiz-et-al-efficacy-and-safety-of-glucagon-like-peptide-1-re",
+     "cats": [
+      "weight"
+     ],
+     "study": "Moiz et al.",
+     "meta": "2026 · Ann Intern Med",
+     "title": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes: An Updated Systematic Review",
+     "studied": "38 randomized trials (25,816 adults with overweight or obesity but no diabetes) of GLP-1 medicines and related combination medicines, each lasting at least 16 weeks.",
+     "finding": "Compared with placebo, tirzepatide was linked to about 19% weight loss, versus about 15% for injected semaglutide; stomach and gut side effects were common.",
+     "limit": "The trials differed too much to combine into one pooled number, and safety results were not reported the same way across trials.",
+     "design": "Systematic review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42673585/",
+     "pmid": "42673585",
+     "added": "2026-11-16",
      "auto": true
     }
    ]
@@ -571,6 +607,42 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42575111/",
      "pmid": "42575111",
      "added": "2026-11-15",
+     "auto": true
+    },
+    {
+     "id": "mann-et-al-effect-of-semaglutide-on-kidney-outcomes-in-the-s",
+     "cats": [
+      "kidney"
+     ],
+     "study": "SELECT, FLOW & SOUL pooled (Mann et al.)",
+     "meta": "2026 · Lancet Diabetes Endocrinol",
+     "title": "Effect of semaglutide on kidney outcomes in the SELECT, FLOW, and SOUL trials: a prespecified pooled analysis",
+     "studied": "30,787 adults with kidney disease or heart and blood vessel disease, with or without type 2 diabetes, from three placebo-controlled trials.",
+     "finding": "People on semaglutide had about 16% lower risk of major kidney problems or heart-related death than people on placebo over about 3 to 4 years.",
+     "limit": "The three trials enrolled different groups and used different forms of semaglutide, and the analysis was funded by the drug's maker.",
+     "design": "Human randomized trials (pooled analysis)",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42567173/",
+     "pmid": "42567173",
+     "added": "2026-11-16",
+     "auto": true
+    },
+    {
+     "id": "ostrominski-et-al-efficacy-and-safety-of-semaglutide-accordi",
+     "cats": [
+      "cardio"
+     ],
+     "study": "SELECT frailty analysis (Ostrominski et al.)",
+     "meta": "2026 · JAMA Cardiol",
+     "title": "Efficacy and Safety of Semaglutide According to Frailty Status: A Post Hoc Analysis of the SELECT Randomized Clinical Trial",
+     "studied": "17,604 adults with heart disease and overweight or obesity but no diabetes, grouped by how frail they were at the start.",
+     "finding": "The drop in heart attacks, strokes and heart-related deaths with semaglutide did not clearly differ by frailty level, and quality-of-life gains appeared larger in frailer people.",
+     "limit": "This was a look-back analysis of an existing trial, so results by frailty group are less certain than the trial's main results.",
+     "design": "Human randomized trial (post hoc analysis)",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42747817/",
+     "pmid": "42747817",
+     "added": "2026-11-16",
      "auto": true
     }
    ]
@@ -1028,6 +1100,44 @@
      "pmid": "42126770",
      "added": "2026-11-15",
      "auto": true
+    },
+    {
+     "id": "wang-et-al-mots-c-attenuates-diabetic-nephropathy-by-downreg",
+     "cats": [
+      "metabolic",
+      "mechanism"
+     ],
+     "study": "Wang et al.",
+     "meta": "2026 · Biochem Pharmacol",
+     "title": "Mots-c attenuates diabetic nephropathy by downregulating LARS1 to promote lipophagy and suppress tubular senescence",
+     "studied": "Diabetic db/db mice with kidney damage, plus human kidney cells (HK-2) grown in a lab.",
+     "finding": "MOTS-c lowered protein loss in the urine and reduced kidney cell damage, fat buildup and signs of cell aging, which the authors linked to the cells' fat-clearing process.",
+     "limit": "Not tested in people; the results come from mice and lab-grown cells.",
+     "design": "Animal study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42918312/",
+     "pmid": "42918312",
+     "added": "2026-11-16",
+     "auto": true
+    },
+    {
+     "id": "tsui-et-al-the-mitochondrial-derived-peptide-mots-c-improves",
+     "cats": [
+      "aging",
+      "mechanism"
+     ],
+     "study": "Tsui et al.",
+     "meta": "2026 · Reprod Fertil",
+     "title": "The mitochondrial-derived peptide MOTS-c improves bioenergetics in aging-associated granulosa cells and oocytes",
+     "studied": "Lab-grown granulosa cells (the HGL5 cell line; these cells support egg cells) in an aging model, plus egg cells taken from young and older mice.",
+     "finding": "MOTS-c improved energy production in the granulosa cells and helped more of the older mouse egg cells mature in the dish, though they stayed below young egg cell levels.",
+     "limit": "Not tested in people; this was a lab study of cells and mouse egg cells outside the body.",
+     "design": "Cell study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42895211/",
+     "pmid": "42895211",
+     "added": "2026-11-16",
+     "auto": true
     }
    ]
   },
@@ -1479,6 +1589,25 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42954461/",
      "pmid": "42954461",
      "added": "2026-11-15",
+     "auto": true
+    },
+    {
+     "id": "banga-et-al-understanding-the-effects-of-ciprofloxacin-on-co",
+     "cats": [
+      "repair",
+      "mechanism"
+     ],
+     "study": "Banga et al.",
+     "meta": "2026 · Exp Eye Res",
+     "title": "Understanding the effects of ciprofloxacin on corneal epithelial cells: a study using electric cell-substrate impedance sensing (ECIS) technology",
+     "studied": "Corneal (eye surface) cells grown in a lab dish, treated with the antibiotic ciprofloxacin alone or together with thymosin beta-4.",
+     "finding": "Thymosin beta-4 improved wound healing and barrier function in the cells, but it did not fully undo the damage caused by ciprofloxacin.",
+     "limit": "This was a lab study only and was not tested in people; the study's main focus was the antibiotic's effects.",
+     "design": "Cell study",
+     "badge": "tint",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42431294/",
+     "pmid": "42431294",
+     "added": "2026-11-16",
      "auto": true
     }
    ]

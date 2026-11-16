@@ -20,3 +20,12 @@
 
 ## 2026-11-15 (Semax)
 - Added Semax page: 8 entries.
+
+## 2026-11-16
+- tirzepatide · TOGETHER-PsA (Merola et al.) · Ixekizumab With Tirzepatide Achieved Greater Disease Control Than Ixekizumab Alone in Adults With Psoriatic Arthritis and Overweight or Obesity: Results From a Randomized Clinical Trial · PMID 41903163
+- tirzepatide · Moiz et al. · Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes: An Updated Systematic Review · PMID 42673585
+- semaglutide · SELECT, FLOW & SOUL pooled (Mann et al.) · Effect of semaglutide on kidney outcomes in the SELECT, FLOW, and SOUL trials: a prespecified pooled analysis · PMID 42567173
+- semaglutide · SELECT frailty analysis (Ostrominski et al.) · Efficacy and Safety of Semaglutide According to Frailty Status: A Post Hoc Analysis of the SELECT Randomized Clinical Trial · PMID 42747817
+- mots-c · Wang et al. · Mots-c attenuates diabetic nephropathy by downregulating LARS1 to promote lipophagy and suppress tubular senescence · PMID 42918312
+- mots-c · Tsui et al. · The mitochondrial-derived peptide MOTS-c improves bioenergetics in aging-associated granulosa cells and oocytes · PMID 42895211
+- tb-500 · Banga et al. · Understanding the effects of ciprofloxacin on corneal epithelial cells: a study using electric cell-substrate impedance sensing (ECIS) technology · PMID 42431294
