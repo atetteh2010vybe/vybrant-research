@@ -88,7 +88,8 @@
         "semax"
       ],
       "NAD+": [
-        "nad"
+        "nad",
+        "nad-sublingual"
       ]
     }
   },
@@ -104,6 +105,11 @@
   },
   "nad": {
     "pubmed": "(\"NAD+\"[tiab] OR \"nicotinamide adenine dinucleotide\"[tiab] OR \"nicotinamide riboside\"[tiab] OR \"nicotinamide mononucleotide\"[tiab]) AND (humans[mh] OR clinical trial[pt] OR randomized[tiab] OR infusion[tiab] OR injection[tiab])",
+    "only": [],
+    "max_per_week": 3
+  },
+  "nad-sublingual": {
+    "pubmed": "(\"NAD+\"[tiab] OR \"nicotinamide adenine dinucleotide\"[tiab] OR \"nicotinamide riboside\"[tiab] OR \"nicotinamide mononucleotide\"[tiab]) AND (sublingual[tiab] OR oral[tiab] OR supplementation[tiab]) AND (humans[mh] OR clinical trial[pt] OR randomized[tiab])",
     "only": [],
     "max_per_week": 3
   }

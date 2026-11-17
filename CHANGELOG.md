@@ -32,3 +32,6 @@
 
 ## 2026-11-17 (NAD+)
 - Added NAD+ page: 12 entries.
+
+## 2026-11-17 (NAD+ Sublingual)
+- Added NAD+ Sublingual page: 11 entries.
