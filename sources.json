@@ -51,7 +51,8 @@
       "tirzepatide compounding",
       "semaglutide compounding",
       "epitalon",
-      "semax"
+      "semax",
+      "nicotinamide adenine dinucleotide"
     ],
     "fda_pages": [
       "https://www.fda.gov/drugs/human-drug-compounding",
@@ -85,6 +86,9 @@
       ],
       "Semax": [
         "semax"
+      ],
+      "NAD+": [
+        "nad"
       ]
     }
   },
