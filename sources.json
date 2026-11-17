@@ -97,5 +97,10 @@
     "pubmed": "semax[tiab] OR \"ACTH(4-7)PGP\"[tiab] OR \"ACTH (4-7) PGP\"[tiab] OR \"Met-Glu-His-Phe-Pro-Gly-Pro\"[tiab]",
     "only": [],
     "max_per_week": 3
+  },
+  "nad": {
+    "pubmed": "(\"NAD+\"[tiab] OR \"nicotinamide adenine dinucleotide\"[tiab] OR \"nicotinamide riboside\"[tiab] OR \"nicotinamide mononucleotide\"[tiab]) AND (humans[mh] OR clinical trial[pt] OR randomized[tiab] OR infusion[tiab] OR injection[tiab])",
+    "only": [],
+    "max_per_week": 3
   }
 }

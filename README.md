@@ -15,4 +15,4 @@ Elementor snippet (change the page key):
 <script src="https://atetteh2010vybe.github.io/vybrant-research/research-widget.js" defer></script>
 ```
 
-Page keys: `tirzepatide`, `semaglutide`, `sermorelin`, `mots-c`, `bpc-157`, `tb-500`, `bpc-157-kpv`, `epithalon`, `semax`.
+Page keys: `tirzepatide`, `semaglutide`, `sermorelin`, `mots-c`, `bpc-157`, `tb-500`, `bpc-157-kpv`, `epithalon`, `semax`, `nad`.

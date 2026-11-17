@@ -2226,6 +2226,270 @@
      "auto": false
     }
    ]
+  },
+  "nad": {
+   "name": "NAD+",
+   "eyebrow": "EXPLORE THE EVIDENCE",
+   "heading": "The research behind NAD+",
+   "intro": "Each entry says who or what was studied. Watch whether a study used NAD+ itself or an oral building block like NR or NMN, and whether it was in people or animals.",
+   "searchLabel": "Search research",
+   "placeholder": "Study, topic or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "human",
+     "label": "Human studies"
+    },
+    {
+     "key": "injection",
+     "label": "Injections & IV"
+    },
+    {
+     "key": "energy",
+     "label": "Energy"
+    },
+    {
+     "key": "metabolic",
+     "label": "Metabolism & heart"
+    },
+    {
+     "key": "brain",
+     "label": "Brain"
+    },
+    {
+     "key": "aging",
+     "label": "Aging"
+    },
+    {
+     "key": "safety",
+     "label": "Safety & regulatory"
+    }
+   ],
+   "studies": [
+    {
+     "id": "grant-et-al-a-pilot-study-investigating-changes-in-the-human",
+     "cats": [
+      "human",
+      "injection",
+      "safety"
+     ],
+     "study": "Grant et al.",
+     "meta": "2019 · Front Aging Neurosci",
+     "title": "A pilot study investigating changes in the human plasma and urine NAD+ metabolome during a 6 hour intravenous infusion of NAD+",
+     "studied": "Healthy men given a 6-hour IV infusion of NAD+",
+     "finding": "NAD+ did not rise in the blood for the first two hours, and its breakdown products appeared first, suggesting it is dismantled before cells take it up.",
+     "limit": "Very small pilot; IV only; did not measure health effects.",
+     "design": "Human pilot study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31572171/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "hawkins-et-al-randomized-placebo-controlled-pilot-clinical-s",
+     "cats": [
+      "human",
+      "injection",
+      "safety"
+     ],
+     "study": "Hawkins et al.",
+     "meta": "2024 · medRxiv (preprint)",
+     "title": "Randomized, placebo-controlled, pilot clinical study evaluating acute Niagen+ IV and NAD+ IV in healthy adults",
+     "studied": "Healthy adults given IV NAD+, IV NR, oral NR or IV saline",
+     "finding": "IV NAD+ caused more discomfort during infusion, took longer to give, and raised white blood cell counts. No serious adverse events were reported over 14 days.",
+     "limit": "Small pilot; funded by the maker of NR; preprint not yet peer reviewed.",
+     "design": "Randomized human pilot",
+     "badge": "gold",
+     "url": "https://doi.org/10.1101/2024.06.06.24308565",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "real-world-iv-study-intravenous-infusion-of-nad-versus-nicot",
+     "cats": [
+      "human",
+      "injection",
+      "safety"
+     ],
+     "study": "Real-world IV study",
+     "meta": "2026 · Front Aging",
+     "title": "Intravenous infusion of NAD+ versus nicotinamide riboside: a retrospective tolerability pilot study in a real-world setting",
+     "studied": "Adults who received IV NAD+ or IV NR at commercial clinics",
+     "finding": "Moderate to severe symptoms with IV NAD+ led to longer infusions (about 97 vs 37 minutes). Liver, kidney, thyroid and inflammation markers did not change.",
+     "limit": "Retrospective review, not a controlled trial.",
+     "design": "Retrospective human study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41704678/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "martens-et-al-chronic-nicotinamide-riboside-supplementation-",
+     "cats": [
+      "human",
+      "metabolic"
+     ],
+     "study": "Martens et al.",
+     "meta": "2018 · Nat Commun",
+     "title": "Chronic nicotinamide riboside supplementation is well-tolerated and elevates NAD+ in healthy middle-aged and older adults",
+     "studied": "Healthy adults aged 55 to 79 taking oral NR or placebo for 6 weeks each",
+     "finding": "NR raised NAD+ in blood cells about 60% and was well tolerated. In those with elevated blood pressure, systolic pressure was about 10 points lower.",
+     "limit": "Small pilot; oral NR, not NAD+ injections; blood pressure finding was in a subgroup.",
+     "design": "Randomized crossover trial",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29599478/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "yoshino-et-al-nicotinamide-mononucleotide-increases-muscle-i",
+     "cats": [
+      "human",
+      "metabolic"
+     ],
+     "study": "Yoshino et al.",
+     "meta": "2021 · Science",
+     "title": "Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women",
+     "studied": "25 postmenopausal women with prediabetes and overweight or obesity, NMN or placebo for 10 weeks",
+     "finding": "NMN improved how muscle responded to insulin. It did not lower blood sugar, blood pressure, weight or liver fat.",
+     "limit": "Small; women only; oral NMN, not NAD+ injections.",
+     "design": "Randomized controlled trial",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33888596/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "brakedal-et-al-the-nadpark-study-a-randomized-phase-i-trial-",
+     "cats": [
+      "human",
+      "brain"
+     ],
+     "study": "Brakedal et al.",
+     "meta": "2022 · Cell Metab",
+     "title": "The NADPARK study: a randomized phase I trial of nicotinamide riboside supplementation in Parkinson's disease",
+     "studied": "30 people with newly diagnosed Parkinson's disease, NR or placebo for 30 days",
+     "finding": "NR was well tolerated, raised NAD+ in the brain, and was linked with mild symptom improvement in those whose brain NAD+ rose most.",
+     "limit": "Phase 1; short; oral NR, not NAD+ injections.",
+     "design": "Randomized phase 1 trial",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35235774/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "massudi-et-al-age-associated-changes-in-oxidative-stress-and",
+     "cats": [
+      "human",
+      "aging"
+     ],
+     "study": "Massudi et al.",
+     "meta": "2012 · PLoS One",
+     "title": "Age-associated changes in oxidative stress and NAD+ metabolism in human tissue",
+     "studied": "Skin samples from 49 people aged newborn to 77",
+     "finding": "NAD+ fell with age in human skin, while DNA damage and PARP activity rose.",
+     "limit": "One tissue (skin); shows an association, not that replacing NAD+ helps.",
+     "design": "Human tissue study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22848760/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "review-nad-precursor-supplementation-in-human-ageing-clinica",
+     "cats": [
+      "aging",
+      "energy",
+      "metabolic",
+      "brain"
+     ],
+     "study": "Review",
+     "meta": "2025 · Nat Metab",
+     "title": "NAD+ precursor supplementation in human ageing: clinical evidence and challenges",
+     "studied": "Human trials of NAD+ building blocks",
+     "finding": "Precursors reliably raise NAD+, but clinical benefits in people have been limited, and evidence of NAD+ decline with age in humans is inconsistent.",
+     "limit": "Review of mostly small, short trials.",
+     "design": "Review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41083806/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "review-nicotinamide-adenine-dinucleotide-in-aging-biology-po",
+     "cats": [
+      "aging",
+      "energy",
+      "metabolic"
+     ],
+     "study": "Review",
+     "meta": "2023 · Endocr Rev",
+     "title": "Nicotinamide adenine dinucleotide in aging biology: potential applications and many unknowns",
+     "studied": "Animal and human research on raising NAD+",
+     "finding": "Raising NAD+ improves metabolism and aging markers in animals; human results are more modest and many questions remain.",
+     "limit": "Review.",
+     "design": "Review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37364580/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "fda-fda-reminds-compounders-to-use-ingredients-suitable-for-",
+     "cats": [
+      "safety",
+      "injection"
+     ],
+     "study": "FDA",
+     "meta": "2024 · Safety alert",
+     "title": "FDA reminds compounders to use ingredients suitable for sterile compounding",
+     "studied": "Compounders making injectable NAD+",
+     "finding": "The FDA warned that some compounders used food-grade NAD+ to make IV products, which risks contamination with microbes and endotoxins.",
+     "limit": "A regulatory notice, not a study.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-use-ingredients-suitable-sterile-compounding",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "fda-bulk-drug-substances-nominated-for-use-in-compounding-un",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "May 2026 · 503A category list",
+     "title": "Bulk drug substances nominated for use in compounding under section 503A",
+     "studied": "Ingredients nominated for pharmacy compounding",
+     "finding": "NAD+ is listed in Category 1, \"under evaluation,\" which lets licensed 503A pharmacies compound it under the FDA's interim policy while the review continues.",
+     "limit": "Not FDA approval; status could change.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/media/94155/download",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "fda-amendments-to-the-list-of-bulk-drug-substances-that-can-",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "2019 · Proposed rule",
+     "title": "Amendments to the list of bulk drug substances that can be used to compound drug products under section 503A",
+     "studied": "NAD+ and other nominated compounding ingredients",
+     "finding": "The FDA reviewed NAD+ for fatigue in multiple sclerosis and proposed not adding it to the compounding list. That proposal has not been finalized.",
+     "limit": "A proposal only; NAD+ remains under evaluation.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/media/130768/download",
+     "added": "2026-11-17",
+     "auto": false
+    }
+   ]
   }
  }
 }

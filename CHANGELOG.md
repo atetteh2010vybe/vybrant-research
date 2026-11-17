@@ -29,3 +29,6 @@
 - mots-c · Wang et al. · Mots-c attenuates diabetic nephropathy by downregulating LARS1 to promote lipophagy and suppress tubular senescence · PMID 42918312
 - mots-c · Tsui et al. · The mitochondrial-derived peptide MOTS-c improves bioenergetics in aging-associated granulosa cells and oocytes · PMID 42895211
 - tb-500 · Banga et al. · Understanding the effects of ciprofloxacin on corneal epithelial cells: a study using electric cell-substrate impedance sensing (ECIS) technology · PMID 42431294
+
+## 2026-11-17 (NAD+)
+- Added NAD+ page: 12 entries.
