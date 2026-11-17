@@ -52,7 +52,8 @@
       "semaglutide compounding",
       "epitalon",
       "semax",
-      "nicotinamide adenine dinucleotide"
+      "nicotinamide adenine dinucleotide",
+      "glutathione"
     ],
     "fda_pages": [
       "https://www.fda.gov/drugs/human-drug-compounding",
@@ -90,6 +91,10 @@
       "NAD+": [
         "nad",
         "nad-sublingual"
+      ],
+      "glutathione": [
+        "glutathione-injection",
+        "glutathione-troche"
       ]
     }
   },
@@ -110,6 +115,16 @@
   },
   "nad-sublingual": {
     "pubmed": "(\"NAD+\"[tiab] OR \"nicotinamide adenine dinucleotide\"[tiab] OR \"nicotinamide riboside\"[tiab] OR \"nicotinamide mononucleotide\"[tiab]) AND (sublingual[tiab] OR oral[tiab] OR supplementation[tiab]) AND (humans[mh] OR clinical trial[pt] OR randomized[tiab])",
+    "only": [],
+    "max_per_week": 3
+  },
+  "glutathione-injection": {
+    "pubmed": "glutathione[tiab] AND (supplementation[tiab] OR oral[tiab] OR sublingual[tiab] OR intravenous[tiab] OR injection[tiab]) AND (humans[mh] OR clinical trial[pt] OR randomized[tiab])",
+    "only": [],
+    "max_per_week": 3
+  },
+  "glutathione-troche": {
+    "pubmed": "glutathione[tiab] AND (supplementation[tiab] OR oral[tiab] OR sublingual[tiab] OR intravenous[tiab] OR injection[tiab]) AND (humans[mh] OR clinical trial[pt] OR randomized[tiab])",
     "only": [],
     "max_per_week": 3
   }

@@ -35,3 +35,6 @@
 
 ## 2026-11-17 (NAD+ Sublingual)
 - Added NAD+ Sublingual page: 11 entries.
+
+## 2026-11-17 (Glutathione)
+- Added Glutathione Injection and Glutathione Troche pages.

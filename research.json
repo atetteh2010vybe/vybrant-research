@@ -2733,6 +2733,441 @@
      "auto": false
     }
    ]
+  },
+  "glutathione-injection": {
+   "name": "Glutathione Injection",
+   "eyebrow": "EXPLORE THE EVIDENCE",
+   "heading": "The research behind glutathione",
+   "intro": "Each entry says who or what was studied. Watch how glutathione was given (by mouth, under the tongue or by IV) and whether a study used glutathione itself or its building blocks.",
+   "searchLabel": "Search research",
+   "placeholder": "Study, topic or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "human",
+     "label": "Human studies"
+    },
+    {
+     "key": "oxidative",
+     "label": "Antioxidant levels"
+    },
+    {
+     "key": "liver",
+     "label": "Liver"
+    },
+    {
+     "key": "immune",
+     "label": "Immune"
+    },
+    {
+     "key": "aging",
+     "label": "Aging"
+    },
+    {
+     "key": "brain",
+     "label": "Brain"
+    },
+    {
+     "key": "skin",
+     "label": "Skin"
+    },
+    {
+     "key": "safety",
+     "label": "Safety & regulatory"
+    }
+   ],
+   "studies": [
+    {
+     "id": "richie-et-al-randomized-controlled-trial-of-oral-glutathione",
+     "cats": [
+      "human",
+      "oxidative",
+      "immune"
+     ],
+     "study": "Richie et al.",
+     "meta": "2015 · Eur J Nutr",
+     "title": "Randomized controlled trial of oral glutathione supplementation on body stores of glutathione",
+     "studied": "54 healthy non-smoking adults taking oral glutathione (250 or 1,000 mg a day) or placebo for 6 months",
+     "finding": "Glutathione rose 30 to 35% in blood, plasma and immune cells at the higher dose, and natural killer cell activity more than doubled at 3 months. Levels returned to baseline after stopping.",
+     "limit": "Healthy adults; measured levels and immune markers, not health outcomes.",
+     "design": "Randomized controlled trial",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24791752/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "hauser-et-al-randomized-double-blind-pilot-evaluation-of-int",
+     "cats": [
+      "human",
+      "brain"
+     ],
+     "study": "Hauser et al.",
+     "meta": "2009 · Mov Disord",
+     "title": "Randomized, double-blind, pilot evaluation of intravenous glutathione in Parkinson's disease",
+     "studied": "21 people with Parkinson's given IV glutathione or placebo three times a week for 4 weeks",
+     "finding": "IV glutathione was well tolerated, but symptoms did not improve more than with placebo.",
+     "limit": "Small; short.",
+     "design": "Randomized controlled trial",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19230029/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "honda-et-al-efficacy-of-glutathione-for-the-treatment-of-non",
+     "cats": [
+      "human",
+      "liver"
+     ],
+     "study": "Honda et al.",
+     "meta": "2017 · BMC Gastroenterol",
+     "title": "Efficacy of glutathione for the treatment of nonalcoholic fatty liver disease: an open-label, single-arm, multicenter, pilot study",
+     "studied": "34 people with fatty liver who first made diet and exercise changes, then took oral glutathione for 4 months (29 finished)",
+     "finding": "The liver enzyme ALT fell, along with triglycerides and ferritin.",
+     "limit": "No placebo or comparison group; small.",
+     "design": "Open-label pilot study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28789631/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "kumar-et-al-supplementing-glycine-and-n-acetylcysteine-glyna",
+     "cats": [
+      "human",
+      "aging",
+      "oxidative"
+     ],
+     "study": "Kumar et al.",
+     "meta": "2023 · J Gerontol A",
+     "title": "Supplementing glycine and N-acetylcysteine (GlyNAC) in older adults improves glutathione deficiency, oxidative stress, mitochondrial dysfunction, inflammation, physical function, and aging hallmarks: a randomized clinical trial",
+     "studied": "Older adults with low glutathione taking glycine plus NAC or placebo for 16 weeks",
+     "finding": "GlyNAC restored glutathione levels and improved oxidative stress, inflammation, insulin resistance and some physical function measures.",
+     "limit": "Small; used glutathione building blocks, not glutathione itself.",
+     "design": "Randomized controlled trial",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35975308/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "schmitt-et-al-effects-of-n-acetylcysteine-oral-glutathione-g",
+     "cats": [
+      "human",
+      "oxidative"
+     ],
+     "study": "Schmitt et al.",
+     "meta": "2015 · Redox Biol",
+     "title": "Effects of N-acetylcysteine, oral glutathione (GSH) and a novel sublingual form of GSH on oxidative stress markers: a comparative crossover study",
+     "studied": "20 adults with metabolic syndrome taking sublingual glutathione, swallowed glutathione and NAC, 3 weeks each",
+     "finding": "Glutathione taken under the tongue raised blood glutathione and improved its antioxidant balance more than swallowed glutathione.",
+     "limit": "Small; short; used a supplement-grade sublingual product.",
+     "design": "Randomized crossover study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26262996/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "sonthalia-et-al-glutathione-as-a-skin-whitening-agent-facts-",
+     "cats": [
+      "skin",
+      "safety"
+     ],
+     "study": "Sonthalia et al.",
+     "meta": "2016 · Indian J Dermatol Venereol Leprol",
+     "title": "Glutathione as a skin whitening agent: facts, myths, evidence and controversies",
+     "studied": "Published research on glutathione for skin lightening",
+     "finding": "Oral and topical studies are small and mixed, there is no evidence that IV glutathione works for skin lightening, and its side effects led the Philippine FDA to warn against it.",
+     "limit": "Review.",
+     "design": "Review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27088927/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "fda-fda-reminds-compounders-not-to-use-dietary-supplement-gr",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "Aug 2026 · Compounding alert",
+     "title": "FDA reminds compounders not to use dietary supplement grade glutathione for injectables",
+     "studied": "Patients given IV glutathione made from supplement-grade powder",
+     "finding": "About 30 patients had fever, chills, dizziness and sepsis-like reactions, some needing hospital care, and two pharmacies recalled products for high toxin levels.",
+     "limit": "A regulatory alert, not a study; investigation ongoing.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "fda-fda-highlights-concerns-with-using-dietary-ingredient-gl",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "2019 · Compounding alert",
+     "title": "FDA highlights concerns with using dietary ingredient glutathione to compound sterile injectables",
+     "studied": "Patients given compounded glutathione injections",
+     "finding": "Seven patients had reactions from nausea and vomiting to trouble breathing after injections made with glutathione powder that may have contained high levels of bacterial toxins.",
+     "limit": "A regulatory alert, not a study.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-highlights-concerns-using-dietary-ingredient-glutathione-compound-sterile-injectables",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "fda-pharmacy-compounding-advisory-committee-meeting-june-8-2",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "Jun 2022 · Advisory committee",
+     "title": "Pharmacy Compounding Advisory Committee meeting, June 8, 2022: final summary minutes",
+     "studied": "Whether glutathione belongs on the list of ingredients pharmacies may compound with",
+     "finding": "The committee voted 8 to 5, with 1 abstaining, to recommend adding glutathione, against FDA staff's recommendation.",
+     "limit": "Non-binding; no final rule has been issued.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/media/161293/download",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "fda-bulk-drug-substances-nominated-for-use-in-compounding-un",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "May 2026 · 503A category list",
+     "title": "Bulk drug substances nominated for use in compounding under section 503A",
+     "studied": "Ingredients nominated for pharmacy compounding",
+     "finding": "Glutathione is listed in Category 1, \"under evaluation,\" which lets licensed 503A pharmacies compound it under the FDA's interim policy while the review continues.",
+     "limit": "Not FDA approval; status could change.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/media/94155/download",
+     "added": "2026-11-17",
+     "auto": false
+    }
+   ]
+  },
+  "glutathione-troche": {
+   "name": "Glutathione Troche",
+   "eyebrow": "EXPLORE THE EVIDENCE",
+   "heading": "The research behind glutathione",
+   "intro": "Each entry says who or what was studied. Watch how glutathione was given (by mouth, under the tongue or by IV) and whether a study used glutathione itself or its building blocks.",
+   "searchLabel": "Search research",
+   "placeholder": "Study, topic or keyword",
+   "filters": [
+    {
+     "key": "all",
+     "label": "All research"
+    },
+    {
+     "key": "human",
+     "label": "Human studies"
+    },
+    {
+     "key": "oxidative",
+     "label": "Antioxidant levels"
+    },
+    {
+     "key": "liver",
+     "label": "Liver"
+    },
+    {
+     "key": "immune",
+     "label": "Immune"
+    },
+    {
+     "key": "aging",
+     "label": "Aging"
+    },
+    {
+     "key": "brain",
+     "label": "Brain"
+    },
+    {
+     "key": "skin",
+     "label": "Skin"
+    },
+    {
+     "key": "safety",
+     "label": "Safety & regulatory"
+    }
+   ],
+   "studies": [
+    {
+     "id": "schmitt-et-al-effects-of-n-acetylcysteine-oral-glutathione-g",
+     "cats": [
+      "human",
+      "oxidative"
+     ],
+     "study": "Schmitt et al.",
+     "meta": "2015 · Redox Biol",
+     "title": "Effects of N-acetylcysteine, oral glutathione (GSH) and a novel sublingual form of GSH on oxidative stress markers: a comparative crossover study",
+     "studied": "20 adults with metabolic syndrome taking sublingual glutathione, swallowed glutathione and NAC, 3 weeks each",
+     "finding": "Glutathione taken under the tongue raised blood glutathione and improved its antioxidant balance more than swallowed glutathione.",
+     "limit": "Small; short; used a supplement-grade sublingual product.",
+     "design": "Randomized crossover study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26262996/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "richie-et-al-randomized-controlled-trial-of-oral-glutathione",
+     "cats": [
+      "human",
+      "oxidative",
+      "immune"
+     ],
+     "study": "Richie et al.",
+     "meta": "2015 · Eur J Nutr",
+     "title": "Randomized controlled trial of oral glutathione supplementation on body stores of glutathione",
+     "studied": "54 healthy non-smoking adults taking oral glutathione (250 or 1,000 mg a day) or placebo for 6 months",
+     "finding": "Glutathione rose 30 to 35% in blood, plasma and immune cells at the higher dose, and natural killer cell activity more than doubled at 3 months. Levels returned to baseline after stopping.",
+     "limit": "Healthy adults; measured levels and immune markers, not health outcomes.",
+     "design": "Randomized controlled trial",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/24791752/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "honda-et-al-efficacy-of-glutathione-for-the-treatment-of-non",
+     "cats": [
+      "human",
+      "liver"
+     ],
+     "study": "Honda et al.",
+     "meta": "2017 · BMC Gastroenterol",
+     "title": "Efficacy of glutathione for the treatment of nonalcoholic fatty liver disease: an open-label, single-arm, multicenter, pilot study",
+     "studied": "34 people with fatty liver who first made diet and exercise changes, then took oral glutathione for 4 months (29 finished)",
+     "finding": "The liver enzyme ALT fell, along with triglycerides and ferritin.",
+     "limit": "No placebo or comparison group; small.",
+     "design": "Open-label pilot study",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28789631/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "kumar-et-al-supplementing-glycine-and-n-acetylcysteine-glyna",
+     "cats": [
+      "human",
+      "aging",
+      "oxidative"
+     ],
+     "study": "Kumar et al.",
+     "meta": "2023 · J Gerontol A",
+     "title": "Supplementing glycine and N-acetylcysteine (GlyNAC) in older adults improves glutathione deficiency, oxidative stress, mitochondrial dysfunction, inflammation, physical function, and aging hallmarks: a randomized clinical trial",
+     "studied": "Older adults with low glutathione taking glycine plus NAC or placebo for 16 weeks",
+     "finding": "GlyNAC restored glutathione levels and improved oxidative stress, inflammation, insulin resistance and some physical function measures.",
+     "limit": "Small; used glutathione building blocks, not glutathione itself.",
+     "design": "Randomized controlled trial",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35975308/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "hauser-et-al-randomized-double-blind-pilot-evaluation-of-int",
+     "cats": [
+      "human",
+      "brain"
+     ],
+     "study": "Hauser et al.",
+     "meta": "2009 · Mov Disord",
+     "title": "Randomized, double-blind, pilot evaluation of intravenous glutathione in Parkinson's disease",
+     "studied": "21 people with Parkinson's given IV glutathione or placebo three times a week for 4 weeks",
+     "finding": "IV glutathione was well tolerated, but symptoms did not improve more than with placebo.",
+     "limit": "Small; short.",
+     "design": "Randomized controlled trial",
+     "badge": "gold",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19230029/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "sonthalia-et-al-glutathione-as-a-skin-whitening-agent-facts-",
+     "cats": [
+      "skin",
+      "safety"
+     ],
+     "study": "Sonthalia et al.",
+     "meta": "2016 · Indian J Dermatol Venereol Leprol",
+     "title": "Glutathione as a skin whitening agent: facts, myths, evidence and controversies",
+     "studied": "Published research on glutathione for skin lightening",
+     "finding": "Oral and topical studies are small and mixed, there is no evidence that IV glutathione works for skin lightening, and its side effects led the Philippine FDA to warn against it.",
+     "limit": "Review.",
+     "design": "Review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27088927/",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "fda-fda-reminds-compounders-not-to-use-dietary-supplement-gr",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "Aug 2026 · Compounding alert",
+     "title": "FDA reminds compounders not to use dietary supplement grade glutathione for injectables",
+     "studied": "Patients given IV glutathione made from supplement-grade powder",
+     "finding": "About 30 patients had fever, chills, dizziness and sepsis-like reactions, some needing hospital care, and two pharmacies recalled products for high toxin levels.",
+     "limit": "A regulatory alert, not a study; investigation ongoing.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "fda-pharmacy-compounding-advisory-committee-meeting-june-8-2",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "Jun 2022 · Advisory committee",
+     "title": "Pharmacy Compounding Advisory Committee meeting, June 8, 2022: final summary minutes",
+     "studied": "Whether glutathione belongs on the list of ingredients pharmacies may compound with",
+     "finding": "The committee voted 8 to 5, with 1 abstaining, to recommend adding glutathione, against FDA staff's recommendation.",
+     "limit": "Non-binding; no final rule has been issued.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/media/161293/download",
+     "added": "2026-11-17",
+     "auto": false
+    },
+    {
+     "id": "fda-bulk-drug-substances-nominated-for-use-in-compounding-un",
+     "cats": [
+      "safety"
+     ],
+     "study": "FDA",
+     "meta": "May 2026 · 503A category list",
+     "title": "Bulk drug substances nominated for use in compounding under section 503A",
+     "studied": "Ingredients nominated for pharmacy compounding",
+     "finding": "Glutathione is listed in Category 1, \"under evaluation,\" which lets licensed 503A pharmacies compound it under the FDA's interim policy while the review continues.",
+     "limit": "Not FDA approval; status could change.",
+     "design": "Regulatory record",
+     "badge": "dashed",
+     "url": "https://www.fda.gov/media/94155/download",
+     "added": "2026-11-17",
+     "auto": false
+    }
+   ]
   }
  }
 }
