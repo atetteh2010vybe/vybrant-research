@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-16",
+ "updated": "2026-11-23",
  "pages": {
   "tirzepatide": {
    "name": "Compounded Tirzepatide",
@@ -284,6 +284,43 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42673585/",
      "pmid": "42673585",
      "added": "2026-11-16",
+     "auto": true
+    },
+    {
+     "id": "pa-ka-et-al-analysis-of-the-efficacy-and-safety-of-liragluti",
+     "cats": [
+      "weight"
+     ],
+     "study": "Pałka et al.",
+     "meta": "2026 · J Endocrinol Invest",
+     "title": "Analysis of the efficacy and safety of liraglutide, semaglutide, and tirzepatide for the treatment of overweight and obesity: a systematic review and network meta-analysis",
+     "studied": "24 phase 3 randomized trials of adults with overweight or obesity, each lasting at least one year, comparing liraglutide, semaglutide and tirzepatide with placebo or each other.",
+     "finding": "All three medicines lowered body weight and waist size compared with placebo; tirzepatide ranked highest for weight and waist loss and was linked to more injection-site reactions.",
+     "limit": "Few trials compared the medicines directly, and results varied a lot from trial to trial.",
+     "design": "Systematic review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42560457/",
+     "pmid": "42560457",
+     "added": "2026-11-23",
+     "auto": true
+    },
+    {
+     "id": "carvalhal-et-al-glp-1-receptor-agonists-for-obstructive-slee",
+     "cats": [
+      "sleep",
+      "weight"
+     ],
+     "study": "Carvalhal et al.",
+     "meta": "2026 · Sleep Breath",
+     "title": "GLP-1 receptor agonists for obstructive sleep apnea: a meta-analysis of randomized controlled trials",
+     "studied": "6 randomized trials (1,069 adults with moderate to severe obstructive sleep apnea); four tested liraglutide and two tested tirzepatide.",
+     "finding": "Compared with control, these medicines together lowered breathing pauses during sleep by about 10 per hour and body weight by about 10 kg, with no rise in side effects.",
+     "limit": "Only two trials used tirzepatide, results varied widely between trials, and the authors said these medicines do not replace CPAP.",
+     "design": "Systematic review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42837024/",
+     "pmid": "42837024",
+     "added": "2026-11-23",
      "auto": true
     }
    ]
@@ -643,6 +680,24 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42747817/",
      "pmid": "42747817",
      "added": "2026-11-16",
+     "auto": true
+    },
+    {
+     "id": "colhoun-et-al-semaglutide-and-cardiovascular-risk-reduction",
+     "cats": [
+      "cardio"
+     ],
+     "study": "SELECT mediation analysis (Colhoun et al.)",
+     "meta": "2026 · Eur Heart J",
+     "title": "Semaglutide and cardiovascular risk reduction: a mediation analysis of the SELECT trial",
+     "studied": "Adults with existing heart disease and overweight or obesity, but no diabetes, from the SELECT randomized trial of semaglutide versus placebo.",
+     "finding": "Semaglutide improved waist size, an inflammation marker, blood sugar, cholesterol, blood pressure and kidney markers, but these changes could not reliably explain its lower rate of major heart events.",
+     "limit": "This was an exploratory follow-up analysis, and its estimates had very wide uncertainty ranges.",
+     "design": "Human randomized trial (secondary analysis)",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42777687/",
+     "pmid": "42777687",
+     "added": "2026-11-23",
      "auto": true
     }
    ]
@@ -2488,6 +2543,26 @@
      "url": "https://www.fda.gov/media/130768/download",
      "added": "2026-11-17",
      "auto": false
+    },
+    {
+     "id": "hamzah-et-al-impact-of-exogenous-nicotinamide-adenine-dinucl",
+     "cats": [
+      "human",
+      "injection",
+      "safety"
+     ],
+     "study": "Hamzah et al.",
+     "meta": "2026 · Eur J Clin Pharmacol",
+     "title": "Impact of exogenous nicotinamide adenine dinucleotide and its precursors supplementation in adults with heart failure: a systematic review and meta-analysis of randomized controlled trials",
+     "studied": "4 randomized trials (387 adults with heart failure) testing IV NAD+ or oral nicotinamide riboside against placebo.",
+     "finding": "NAD+ and nicotinamide riboside did not significantly improve heart function, heart failure hospital stays or survival, and a kidney blood marker (creatinine) rose with NAD+.",
+     "limit": "Only four small, short trials were available, so the results are uncertain.",
+     "design": "Systematic review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43040090/",
+     "pmid": "43040090",
+     "added": "2026-11-23",
+     "auto": true
     }
    ]
   },
@@ -2731,6 +2806,44 @@
      "url": "https://www.fda.gov/media/130768/download",
      "added": "2026-11-17",
      "auto": false
+    },
+    {
+     "id": "hamzah-et-al-impact-of-exogenous-nicotinamide-adenine-dinucl",
+     "cats": [
+      "human",
+      "safety"
+     ],
+     "study": "Hamzah et al.",
+     "meta": "2026 · Eur J Clin Pharmacol",
+     "title": "Impact of exogenous nicotinamide adenine dinucleotide and its precursors supplementation in adults with heart failure: a systematic review and meta-analysis of randomized controlled trials",
+     "studied": "4 randomized trials (387 adults with heart failure) testing IV NAD+ or oral nicotinamide riboside against placebo.",
+     "finding": "NAD+ and nicotinamide riboside did not significantly improve heart function, heart failure hospital stays or survival, and a kidney blood marker (creatinine) rose with NAD+.",
+     "limit": "Only four small, short trials were available, and none tested sublingual NAD+.",
+     "design": "Systematic review",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43040090/",
+     "pmid": "43040090",
+     "added": "2026-11-23",
+     "auto": true
+    },
+    {
+     "id": "brakedal-et-al-nicotinamide-riboside-for-patients-with-early",
+     "cats": [
+      "human",
+      "brain"
+     ],
+     "study": "NOPARK (Brakedal et al.)",
+     "meta": "2026 · JAMA",
+     "title": "Nicotinamide Riboside for Patients With Early-Stage Parkinson Disease: The NOPARK Randomized Clinical Trial",
+     "studied": "410 adults with early Parkinson disease at 11 centers in Norway, given oral nicotinamide riboside or placebo for one year.",
+     "finding": "Nicotinamide riboside did not improve Parkinson symptoms; symptom scores worsened slightly more than with placebo, and serious side effects were not more common.",
+     "limit": "The study tested oral nicotinamide riboside in early Parkinson disease, not sublingual NAD+ or healthy adults.",
+     "design": "Human randomized trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42848371/",
+     "pmid": "42848371",
+     "added": "2026-11-23",
+     "auto": true
     }
    ]
   },
@@ -2957,6 +3070,25 @@
      "url": "https://www.fda.gov/media/94155/download",
      "added": "2026-11-17",
      "auto": false
+    },
+    {
+     "id": "kusumawardani-et-al-skin-lightening-and-evenness-effects-of",
+     "cats": [
+      "human",
+      "skin"
+     ],
+     "study": "Kusumawardani et al.",
+     "meta": "2026 · J Cosmet Dermatol",
+     "title": "Skin Lightening and Evenness Effects of Oral Supplementation With S-Acetyl Glutathione in Comparison With Reduced Glutathione: A Double-Blind, Placebo-Controlled Clinical Trial",
+     "studied": "90 adults with medium-brown to brown skin (Fitzpatrick types IV and V) who took oral S-acetyl glutathione, regular oral glutathione or placebo for 12 weeks.",
+     "finding": "S-acetyl glutathione lowered a skin melanin reading faster than regular glutathione or placebo, but no group had a significant drop in visible pigment, and blood glutathione levels did not differ.",
+     "limit": "This was a short study of swallowed glutathione in two skin types; it did not test injected glutathione.",
+     "design": "Human randomized trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43047195/",
+     "pmid": "43047195",
+     "added": "2026-11-23",
+     "auto": true
     }
    ]
   },
@@ -3166,6 +3298,25 @@
      "url": "https://www.fda.gov/media/94155/download",
      "added": "2026-11-17",
      "auto": false
+    },
+    {
+     "id": "kusumawardani-et-al-skin-lightening-and-evenness-effects-of",
+     "cats": [
+      "human",
+      "skin"
+     ],
+     "study": "Kusumawardani et al.",
+     "meta": "2026 · J Cosmet Dermatol",
+     "title": "Skin Lightening and Evenness Effects of Oral Supplementation With S-Acetyl Glutathione in Comparison With Reduced Glutathione: A Double-Blind, Placebo-Controlled Clinical Trial",
+     "studied": "90 adults with medium-brown to brown skin (Fitzpatrick types IV and V) who took oral S-acetyl glutathione, regular oral glutathione or placebo for 12 weeks.",
+     "finding": "S-acetyl glutathione lowered a skin melanin reading faster than regular glutathione or placebo, but no group had a significant drop in visible pigment, and blood glutathione levels did not differ.",
+     "limit": "This was a short study of swallowed glutathione in two skin types; it did not test troches or injections.",
+     "design": "Human randomized trial",
+     "badge": "dark",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43047195/",
+     "pmid": "43047195",
+     "added": "2026-11-23",
+     "auto": true
     }
    ]
   }

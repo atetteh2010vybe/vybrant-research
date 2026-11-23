@@ -38,3 +38,13 @@
 
 ## 2026-11-17 (Glutathione)
 - Added Glutathione Injection and Glutathione Troche pages.
+
+## 2026-11-23
+- tirzepatide · Pałka et al. · Analysis of the efficacy and safety of liraglutide, semaglutide, and tirzepatide for the treatment of overweight and obesity: a systematic review and network meta-analysis · PMID 42560457
+- tirzepatide · Carvalhal et al. · GLP-1 receptor agonists for obstructive sleep apnea: a meta-analysis of randomized controlled trials · PMID 42837024
+- semaglutide · SELECT mediation analysis (Colhoun et al.) · Semaglutide and cardiovascular risk reduction: a mediation analysis of the SELECT trial · PMID 42777687
+- nad · Hamzah et al. · Impact of exogenous nicotinamide adenine dinucleotide and its precursors supplementation in adults with heart failure: a systematic review and meta-analysis of randomized controlled trials · PMID 43040090
+- nad-sublingual · Hamzah et al. · Impact of exogenous nicotinamide adenine dinucleotide and its precursors supplementation in adults with heart failure: a systematic review and meta-analysis of randomized controlled trials · PMID 43040090
+- nad-sublingual · NOPARK (Brakedal et al.) · Nicotinamide Riboside for Patients With Early-Stage Parkinson Disease: The NOPARK Randomized Clinical Trial · PMID 42848371
+- glutathione-injection · Kusumawardani et al. · Skin Lightening and Evenness Effects of Oral Supplementation With S-Acetyl Glutathione in Comparison With Reduced Glutathione: A Double-Blind, Placebo-Controlled Clinical Trial · PMID 43047195
+- glutathione-troche · Kusumawardani et al. · Skin Lightening and Evenness Effects of Oral Supplementation With S-Acetyl Glutathione in Comparison With Reduced Glutathione: A Double-Blind, Placebo-Controlled Clinical Trial · PMID 43047195
