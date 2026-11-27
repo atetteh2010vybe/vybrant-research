@@ -48,3 +48,8 @@
 - nad-sublingual · NOPARK (Brakedal et al.) · Nicotinamide Riboside for Patients With Early-Stage Parkinson Disease: The NOPARK Randomized Clinical Trial · PMID 42848371
 - glutathione-injection · Kusumawardani et al. · Skin Lightening and Evenness Effects of Oral Supplementation With S-Acetyl Glutathione in Comparison With Reduced Glutathione: A Double-Blind, Placebo-Controlled Clinical Trial · PMID 43047195
 - glutathione-troche · Kusumawardani et al. · Skin Lightening and Evenness Effects of Oral Supplementation With S-Acetyl Glutathione in Comparison With Reduced Glutathione: A Double-Blind, Placebo-Controlled Clinical Trial · PMID 43047195
+
+## 2026-11-27 (manual, requested by Alfred)
+- semaglutide: replaced four unlinked "Emerging research" summaries with sourced entries:
+  Carmina 2023 (PCOS, PMID 37762862), Verma 2022 STEP 1–3 CRP (PMID 36467859),
+  Choi 2025 mouse muscle mitochondria (PMID 40254778), Hendershot 2025 alcohol use disorder RCT (PMID 39937469).
